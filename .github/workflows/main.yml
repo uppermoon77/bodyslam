@@ -1,0 +1,39 @@
+name: bodyslam
+
+on:
+  # jalan otomatis tiap 10 menit (ingat: waktu GitHub = UTC)
+  schedule:
+    - cron: "*/10 * * * *"
+  # bisa dijalankan manual dari tab "Actions"
+  workflow_dispatch:
+  # opsional: jalan setiap ada perubahan pada script
+  push:
+    paths:
+      - "update_github_file.py"
+
+permissions:
+  contents: write  # perlu untuk commit ke repo
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub requests
+
+      - name: Run updater
+        env:
+          # pakai token bawaan Actions, disalurkan ke variabel yang skrip kamu baca
+          GITHUB_PAT: ${{ github.token }}
+        run: |
+          python update_github_file.py
