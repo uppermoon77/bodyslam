@@ -5620,13 +5620,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
 
 =========
 
-
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="Discovery Channel" tvg-logo="https://i.imgur.com/d9KJZyY.jpeg" group-title="PENGETAHUAN",Discovery Channel ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-
 #EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://i.imgur.com/d9KJZyY.jpeg" group-title="PENGETAHUAN",DISCOVERY (US)
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
