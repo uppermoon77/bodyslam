@@ -5241,9 +5241,6 @@ GAYA HIDUP
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/k8RQgiu.jpeg",GAYA HIDUP
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg group-logo="https://i.imgur.com/k8RQgiu.jpegg" group-title="GAYA HIDUP", Tiny House Nation (AG)
-https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-26mfabjsursqh/v1/aenetworks_tinyhousenation_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", This Old House (AG)
 https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
 
@@ -5323,26 +5320,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 NEW 4/8/2025
 ================================
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",First Lifestyle 1 ON (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Food Network (FAG)
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Asian Food Network 1 ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
-
-
-
 #EXTINF:-1 group-title="GAYA HIDUP" tvg-id="SONE" tvg-url="https://i.imgur.com/DGiqSFD.jpeg",ONE 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5356,16 +5333,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
 #EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",Entertainment 1 ON (R)
 
-============20/1/2025 GAYA HIDUP============
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="FashionTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/vgxWXsf.jpeg",Fashion TV SD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+============20/1/2025 GAYA HIDUP============ FAHSION TV LOGO https://i.imgur.com/vgxWXsf.jpeg
 
-https://webhdrunns.mizhls.ru/lb/premium688/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/vgxWXsf.jpeg" group-title="GAYA HIDUP",Fashion TV FHD
-============20/1/2025 GAYA HIDUP============
 
 =====EDT [21/11/2024]
 
@@ -5410,18 +5379,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="CrimeInvestigation.id" tvg-url="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation 1 ON (V)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
-
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-id="CrimeInvestigation.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EVYrgDP.jpeg",Crime Investigation (I)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
-==========
+==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Citra Entertainment
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
