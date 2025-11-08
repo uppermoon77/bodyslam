@@ -3841,32 +3841,45 @@ http://51.89.166.17:3002/index.php?id=Cinemax
 http://203.77.246.58:4500/udp/239.1.3.84:5000
 #http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="HBO",HBO HITS
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="HBO",HBO SIGNATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="HBO",HBO FAMILY
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444188
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="HBO",CINEMAX
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 ==========
 ANAK
 ==========
@@ -3880,14 +3893,6 @@ NEW 4/5/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 UPDATE 12/9/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1 tvg-id="DisneyXD.mv" tvg-name="Disney XD" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",DISNEY XD (US)
-http://fl30.moveonjoy.com/DISNEY_XD/index.m3u8
-https://maldivesn.net/hilaytv/disneyxd
-
-#EXTINF:-1 tvg-id="DisneyJr.mv" tvg-name="Disney Junior" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",DISNEY JUNIOR (US)
-http://fl30.moveonjoy.com/DISNEY_JR/index.m3u8
-https://maldivesn.net/hilaytv/disneyjr
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3903,37 +3908,21 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #EXTINF:-1 tvg-id="ytv" tvg-name="__" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",YTV (JNUS)
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK" tvg-id="NickJr.id" ,NICK JR 2 ON (WNG)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
-
-
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK" tvg-id="NickJr.id" ,NICK JR 2 ON (WNG)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
-
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg", BIZNET KIDS 1 ON (R)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 https://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
-
-
-
 =======EDT [21/11/2024]
 cartonitoo cover https://i.imgur.com/bCTSmje.jpeg
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Cartoonito.id" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/bCTSmje.jpeg" group-title="ANAK",CARTOONITO
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/bCTSmje.jpeg" group-title="ANAK", CARTOONITO
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 =======EDT [21/11/2024]
 
@@ -3973,24 +3962,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-===============
----------
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK" tvg-id="Nickelodeon.id",Nickelodeon 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemeshield1-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
+===============--NICKELODEON COVER https://i.imgur.com/5GYwymQ.jpeg"
+-----------------NICKELODEON JUNIOR https://i.imgur.com/aBA4UeI.jpeg"
 
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg" group-title="ANAK",Nickelodeon INDO
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/5GYwymQ.jpeg", NICKELODEON INDO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg" group-title="ANAK" tvg-id="NickJr.id" ,Nickelodeon Junior 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemeshield1-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.imgur.com/aBA4UeI.jpeg", NICKELODEON JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+
 
 
 ---------
@@ -4047,25 +4030,25 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-id="MyKidz" tvg-url="https://i.imgur.com/vdL9Wa6.jpeg" group-title="ANAK",MyKids
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD
 
---
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",DREAMWORKS
-https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+
+#EXTINF: -1 tvg-id="dreamworks.macan" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK", DREAMWORKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+
 
 --
 
 
 ======
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK
-https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4KdFidK.jpeg" group-title="ANAK", CARTOON NETWORK
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 ======EDT 2
 
@@ -4251,34 +4234,49 @@ http://51.89.166.17:3002/index.php?id=Hbofamily
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://51.89.166.17:3002/index.php?id=Cinemax
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="FILM",HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="FILM",HBO 2
 http://203.77.246.58:4500/udp/239.1.3.84:5000
 #http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Hbo/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
-#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="FILM",HBO HITS
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="FILM",HBO HITS 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
-#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="FILM",HBO SIGNATURE
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="FILM",HBO SIGNATURE 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
-#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="FILM",HBO FAMILY
-https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="FILM",HBO FAMILY 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444188
+#https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="FILM",CINEMAX
-https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="FILM",CINEMAX 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 ===============================================================================================================
 
@@ -4349,16 +4347,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 ===========
 NEW 4/5/2025 
 ===========
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/kSNGK5D.jpeg" group-title="FILM", SONY MAX
-#EXTHTTP:{"User-agent":"ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-====EDT 2 [17/11/2024]
-
-
 
 ============https://i.imgur.com/Suy99cF.jpeg
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/Suy99cF.jpeg", AXN
@@ -4514,6 +4502,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://i.imgur.com/uESN7MW.jpeg" group-title="FILM",ONE
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+http://203.77.246.58:4500/udp/239.1.5.10:5000
+http://203.77.246.58:4500/udp/239.1.2.236:5000
+http://103.66.62.83:8000/play/a03z/index.m3u8
+#https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
+
 
 =====>>>20/3/2025<<<==========
 
@@ -4547,11 +4549,15 @@ http://203.77.246.58:4500/udp/239.1.5.18:5000
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/YxDN47W.jpeg" group-title="FILM",Thriil 1 ON (JL)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/UmbvKYp.jpeg",Zee Bioskop 1 On (R)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
-https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/UmbvKYp.jpeg",Zee Bioskop
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
