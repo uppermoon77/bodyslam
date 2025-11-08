@@ -3291,14 +3291,6 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 group-title="DAERAH" " tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",Dhoho TV- Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id=" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -3309,11 +3301,18 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id=" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",DAAI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",DAAI TV
+https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_w876543528_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+#https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3346,8 +3345,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/500a192f4d09360.m3u8
 
 
 ===
-#EXTINF:-1 tvg-id=" tvg-name="JITV Jogja" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JITV Jogja
-http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Inspira TV
@@ -3358,44 +3355,37 @@ http://khano.nng.cloudns.us/live/m3u8/id/0c913970f4e013e.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTINF:-1 tvg-id="JakTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JAK TV
+#EXTINF:-1 tvg-id="JakTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JAK TV 1
 https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JakTV 1
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5dfa046b3bf14866a143470d9c8dd74d:97e354284ee7a67e5dafbce04e17c4c0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JakTV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JAKTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/1f05c642353a4a778d8a544837e1b49c/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+#https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", JakTV 3
-#https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id=" tvg-name="  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",Jawapos TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH,JAWAPOST TV
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg",JTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JTV
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="SaktiTV" tvg-name="Sakti TV" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH", Sakti TV
@@ -5331,12 +5321,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 ==========--crime investigation logo https://i.imgur.com/EVYrgDP.jpeg
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Citra Entertainment
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+Citra entertaiment cover https://i.imgur.com/k8RQgiu.jpeg
 
 #EXTINF:-1 tvg-id=" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium2.xml" tvg-logo="https://i.imgur.com/jRpbxWs.jpeg" group-title="GAYA HIDUP",Dens Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -5364,11 +5349,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
 
-
-#EXTINF:-1 tvg-id="59" tvg-logo="https://i.imgur.com/y4m9fyY.jpeg" group-title=" GAYA HIDUP ", tvN HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.imgur.com/y4m9fyY.jpeg" group-title="GAYA HIDUP",TVN
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+#https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
 =====s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5416,19 +5405,20 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 =======edt
 
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/1E95XTW.jpeg" group-title="GAYA HIDUP",LIFETIME ON
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
-https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/1E95XTW.jpeg",Lifetime
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest_w10939036_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime720/manifest.mpd
 
 =====edt
 
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://i.imgur.com/8WsiXlW.jpeg", TLC HD 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+TLC COVER https://i.imgur.com/8WsiXlW.jpeg
 
 
 ==========
@@ -5927,34 +5917,21 @@ AGAMA | ini edit
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/kdY7kjT.jpeg",AGAMA 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MakkahTV
-https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",RodjaTV
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MedsTV
 https://WahyuIPTV.short.gy/MedsTV-HD.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",SurauTV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",MQTV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",WesalTV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
@@ -5985,15 +5962,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 #EXTINF:-1 tvg-id="Makkah TV.ar" tvg-name="Makkah TV.ar" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA", Makkah TV
 http://khano.nng.cloudns.us/live/m3u8/ar/3058a2456b128c1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
-#EXTINF:-1 tvg-id=" tvg-name="EWTN" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA ", EWTN
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-#EXTINF:-1 tvg-id=" tvg-name="Kairos" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA ", Kairos
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 ------
 
@@ -6007,16 +5975,6 @@ https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/ra
 #EXTINF:-1 tvg-id="Saudi Sunna HD.ae" tvg-name="Saudi Sunna HD.ae" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA ", Saudi Sunna (Medina)
 https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/0d34940b4d8e51866bcf9d338a0dc6292cb25754/18d7c304801584a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",Reformed21
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
-#EXTINF:-1 tvg-id=" tvg-name="TBN Asia" tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA ", TBN Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
 
 =============
