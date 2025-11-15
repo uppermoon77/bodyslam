@@ -3414,8 +3414,11 @@ NASIONAL
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="NASIONAL"  tvg-logo="https://i.imgur.com/vLo0ZHI.jpeg", Sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6gTwzHE.png" group-title="NASIONAL",INDOSIAR BOLA
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="NASIONAL",INDOSIAR BOLA (NOV)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://103.66.62.83:8000/play/a069/index.m3u8
+http://203.77.246.58:4500/udp/239.1.1.110:5000
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
