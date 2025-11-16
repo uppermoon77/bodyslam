@@ -5155,6 +5155,13 @@ GAYA HIDUP
 ==========
 #EXTINF:-1 group-logo="https://i.imgur.com/k8RQgiu.jpeg",GAYA HIDUP
 
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTVAsia.us" tvg-chno="HGTVAsia.us" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", HGTV US
+https://bit.ly/hgtvhgtv
+
+#EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="ID: Asian FOOD Network HD" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",ID: AFN Asian FOOD Network HD
+http://filex.me:8080//live/Qasim1990/1990qasim/302207.ts
+
+
 #EXTINF:-1 tvg-name=" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", This Old House (AG)
 https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
 
