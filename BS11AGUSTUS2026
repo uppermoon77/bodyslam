@@ -7280,10 +7280,10 @@ https://mimipipi22.github.io/logo/offline.m3u8
 https://smart.946985.filegear-sg.me/smart.php?id=tiankongepl
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 7 SKY SPORTS MAIN ✅
-https://smart.946985.filegear-sg.me/smart.php?id=tiankongmain
-https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 7 SKY SPORTS MAIN  (SEMENTARA)✅
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
 
 
 
