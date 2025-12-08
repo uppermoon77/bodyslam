@@ -8238,8 +8238,19 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 
 
 
+#EXTINF:-1 group-logo="https://i.imgur.com/sTZEYCS.jpeg",EVENT | SEA GAMES 2025
 
 
+#EXTINF:-1 group-title="EVENT | SEA GAMES 2025" tvg-id="UEFA" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg",LIVE SEA GAMES 2025 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://i.imgur.com/sTZEYCS.jpeg" group-title="EVENT | SEA GAMES 2025",LIVE SEA GAMES 2025 4
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/6gTwzHE.png",BOLA | AFC ASIAN CUP 2025
 
