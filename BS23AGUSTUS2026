@@ -3500,6 +3500,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",INDOSIAR BOLA ✅
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
+
+
+
 
 
 
@@ -5586,8 +5593,13 @@ START | BRI LIGA 1
 
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR BOLA (TSP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR
 https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",INDOSIAR BOLA ✅
+##http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+##https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/Indosiar.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 
 
 =====>>>25/3/2025<<<====
