@@ -3324,13 +3324,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1000.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JOWO TV (CBM)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JOWO TV HD
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
@@ -4652,7 +4651,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILMP",KIX HD
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="FILM",KIX HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
@@ -4918,9 +4917,24 @@ https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 
-#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https:/https://i.imgur.com/PN7Se0B.jpeg" group-title="DUNIA | KOREA", KIX
+#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://https://i.imgur.com/PN7Se0B.jpeg" group-title="DUNIA | KOREA", KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://https://i.imgur.com/PN7Se0B.jpeg" group-title="DUNIA | KOREA",KIX HD
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://i.imgur.com/ffr53aW.jpeg" group-title="DUNIA | KOREA",KIX HD 2
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5202,6 +5216,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",HGTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",AFN
@@ -5223,14 +5243,12 @@ https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
 #EXTINF:-1 tvg-id="LifestyleandFashion.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Hanacaraka TV (AG)
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1000.php
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",JOWO TV (CBM)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",JOWO TV 
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/   
@@ -5352,12 +5370,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/KWdRJGm.jpeg" group-title="GAYA HIDUP",AXN 2
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1000.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://i.imgur.com/KWdRJGm.jpeg" group-title="GAYA HIDUP",AXN 3
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
-
 =======
 
 #EXTVLCOPT:network-caching=1000
@@ -5474,8 +5486,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mp
 
 TLC COVER https://i.imgur.com/8WsiXlW.jpeg
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/8WsiXlW.jpeg" group-title="GAYA HIDUP", TLC US
-https://bit.ly/tlctlctl
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
@@ -5528,15 +5538,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY HIT 1 ON (R)
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
-===
-#EXTINF:0 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN", HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+#EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://i.imgur.com/qdVMaoN.jpeg" group-title="PENGETAHUAN",HISTORY
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
-
-#EXTINF:-1 group-title="PENGETAHUAN" ch-number="26" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg",Global Trekker
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-name="Global Trekker" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",GLOBAL TREKKER
+https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 
 
 
@@ -5546,21 +5558,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
 ================>>>16/6/2025<==================
 
 
-===
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name=" tvg-chno=" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" , NAT GEO
-https://stream1.freetv.fun/c63737a7732017a1a512dc57892ed3bb00a10cb8c668a190f9bc4df004b40ad8.ctv
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN", NATGEO (US)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+https://e1.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
 
-#EXTINF:-1 tvg-id="NationalGeographicIndonesia.id" tvg-name=" tvg-chno=" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" , NAT GEO
-https://bit.ly/ngcngc
-
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg", NAT GEO WILD
-https://stream1.freetv.fun/83d549aab99fcaf9ac97138a2610ebd6df202945a14afa4b32db4785261f2927.ctv
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg", NAT GEO WILD
-
-https://bit.ly/ncgwil
-
+#EXTINF:-1 tvg-id="NationalGeographicWest.us"  tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN", NATGEO WILD (US)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"98b85dcb9dca5fcda975b7627193debd":"1b1ca584e6b91274c9f56c80eeb44ef7","e077d008a8ae54bcaf14e87981d15d8f":"fa3cca65dee592a589c61a84f2d6c1f6"}
+https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
 
 ===
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Ln9oHhJ.jpeg" group-title="PENGETAHUAN", ANIMAL PLANET (ID)
@@ -5570,14 +5576,18 @@ https://bit.ly/ncgwil
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Ln9oHhJ.jpeg" group-title="PENGETAHUAN", ANIMAL PLANET (US)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 tvg-id="Animal Planet.id" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/Ln9oHhJ.jpeg" group-title="PENGETAHUAN",ANIMAL PLANET (ID2)
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
 
-https://bit.ly/enimaplane
-
-
-
-#EXTINF:-1 group-title="PENGETAHUAN"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://i.imgur.com/je8MaLy.jpeg",DISCOVERY ASIA
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="Discovery Asia.id" tvg-name="Discovery Asia.id" tvg-logo="https://i.imgur.com/je8MaLy.jpeg" group-title="PENGETAHUAN",DISCOVERY ASIA HD
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 ================>>>19/3/2025<==================
 
@@ -5588,9 +5598,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 =============https://i.imgur.com/Apt76JU.jpeg"
-#EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Apt76JU.jpeg", CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Apt76JU.jpeg", CRIME INVESTIGATION SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+#EXTINF:-1 tvg-id="CrimeInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="PENGETAHUAN",CRIME INVESTIGATION HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
 
 
@@ -5611,10 +5627,11 @@ EDT
 
 ====
 
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-id="DMAX" tvg-logo="https://i.imgur.com/HSONsHu.jpeg",DMAX 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c401c268b85841e3345dfabb1aa497fe:c3999ac196a5b2e0184574dda390d2ad
-https://p7s1-live-009-prod.akamaized.net/97bf783a/t_009/dmax-de/cenc-default.mpd
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTINF:-1 tvg-id="" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/HSONsHu.jpeg" group-title="PENGETAHUAN",DMAX
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 
 
 ====
@@ -5723,25 +5740,37 @@ singapura
 
 Channel 5 logo : https://i.imgur.com/xqYSItV.jpeg
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",Channel 8 (UNDER MAINTENANCE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
-https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel 5 
+http://cdn6.163189.xyz/163189/ch5
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",Channel U (UNDER MAINTENANCE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
-https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel 8 
+http://cdn6.163189.xyz/163189/ch8
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",Suria (UNDER MAINTENANCE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
-https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel U" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ", Channel U
+http://cdn6.163189.xyz/163189/chu
 
-#EXTINF:-1 group-title="DUNIA | SINGAPURA" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/xqYSItV.jpeg",VASANTHAM (UNDER MAINTENANCE)
-http://66.90.99.154:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-http://smart.cityq.xyz:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
-##https://dl.dropboxusercontent.com/scl/fi/myo9oae50y7xskcogizkx/sg_vasantham.m3u8?rlkey=7fyb2ov6rxh3tupgylw7echr2&st=suscy7y8
+#EXTINF:-1 group-title="DUNIA | SINGAPURA " tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.imgur.com/xqYSItV.jpeg", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+#EXTINF:-1 tvg-id="CNA" tvg-url="https://bit.ly/group-title="CHANNEL | SINGAPORE"Epg" tvg-name="" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ",Oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA ",Mediacorp Entertainment China
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://i.imgur.com/xqYSItV.jpeg" group-title="DUNIA | SINGAPURA",CNA 1 On (R)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -6865,9 +6894,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://raw.githubusercontent.com/mimipipi22/source/main/news/wion.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=lite&chname=WION
 
-#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC ASIA
-##https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC ASIA 1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC ASIA  2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA" ,ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
