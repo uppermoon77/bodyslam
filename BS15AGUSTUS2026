@@ -7048,25 +7048,19 @@ https://a1xs.vip/700008
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 6 (1)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 6
-#https://vidd.semar.my.id/vidreq.php?id=9182&type=dash
-#https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9182
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 6 (2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 6 (2)
-#https://vidd.semar.my.id/vidreq.php?id=9183&type=dash
-#https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",LIVE 7 Setanta Sports 2 (UJI COBA)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
