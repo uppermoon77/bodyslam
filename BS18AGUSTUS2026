@@ -6997,6 +6997,61 @@ LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LI
 COVER BARU LIVE LIGA INGGRIS "https://i.imgur.com/FjKJyFG.jpeg"
 COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 
+
+==============================
+EVENT
+===============================
+#EXTINF:-1 tvg-id="SkySportMixDE" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ 3:15 Newcastle United vs Leeds United (Sky Sport Mix DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽3:15 Burnley vs Manchester United (Sky Sports Premier League) (SMT)
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+
+https://d10.merichunidya.com:1686/hls/skysprem.m3u8?md5=67c8cMXgGtHI2K-U-g15gg&expires=1767810656
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ 2:30 Fulham vs Chelsea (Sky Sports Football) (SMT)
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d3.merichunidya.com:1686/hls/skysfott.m3u8?md5=TgaB3_ax76KbFe056nQdaw&expires=1767810656
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ 2:30 Fulham vs Chelsea (ESPN 🇨🇴)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.co" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽2:30 Manchester City vs Brighton & Hove Albion
+ (ESPN 2 🇨🇴)
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+
++++++++++++++++++++++++++++++
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽2:30 Manchester City vs Brighton & Hove Albion (ASTRO PREMIER LEAGUE)
+http://live.catvod.com/live.php?id=Assp1
+http://live.catvod.com/live.php?id=go_assp1
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ 2:30 Fulham vs Chelsea (ASTRO PREMIER LEAGUE 2)
+http://live.catvod.com/live.php?id=Assp2
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽2:30 Manchester City vs Brighton & Hove Albion (ASTRO GRANDSTAND)
+http://live.catvod.com/live.php?id=go_assp3
+https://mimipipi22.github.io/logo/offline.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ASTRO FOOTBALL
+http://live.catvod.com/live.php?id=go_assp4
+https://mimipipi22.github.io/logo/offline.m3u8
+
+===============================
+
 #EXTINF:-1 tvg-id=" tvg-logo="https://i.imgur.com/nISWTAB.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 0 TNTSPORT1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/tntsport1.m3u8
@@ -7117,6 +7172,20 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS", Setanta Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS", Setanta Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
 
 
 
