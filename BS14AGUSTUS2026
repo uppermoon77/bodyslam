@@ -7838,25 +7838,46 @@ END | SERIE A
 BOLA | SUPERCOPA DE ESPANA
 ===============
 
-#EXTINF:-1 group-logo="https://i.imgur.com/TBm4iLO.jpeg",BOLA | SUPERCOPA DE ESPANA
+#EXTINF:-1 group-logo="https://i.imgur.com/EicSRXc.jpeg",BOLA | SUPERCOPA DE ESPANA
 
 
-#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="" group-title="BOLA | SUPERCOPA DE ESPANA",SportDigital FUSSBALL DE (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
+#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/EicSRXc.jpeg" group-title="BOLA | SUPERCOPA DE ESPANA",SportDigital FUSSBALL DE (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="BOLA | SUPERCOPA DE ESPANA", TNT Sport 1 🇬🇧 (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EicSRXc.jpeg" group-title="BOLA | SUPERCOPA DE ESPANA", TNT Sport 1 🇬🇧 (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/ZgQ5jVD/TNT4.png" group-title="BOLA | SUPERCOPA DE ESPANA", TNT Sport 4 🇬🇧 (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
+#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EicSRXc.jpeg" group-title="BOLA | SUPERCOPA DE ESPANA", TNT Sport 4 🇬🇧 (12 JANUARI 2026 Barcelona vs Real Madrid 2:00 am)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+===================
+BOLA | PRO LEAGUE
+===============
+
+#EXTINF:-1 group-logo="https://i.imgur.com/mgOL0OZ.jpeg",BOLA | PRO LEAGUE
+
+#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/mgOL0OZ.jpeg" group-title="BOLA | PRO LEAGUE",SportDigital FUSSBALL DE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/mgOL0OZ.jpeg" group-title="BOLA | PRO LEAGUE", FOXSPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 
 
