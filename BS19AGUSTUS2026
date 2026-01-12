@@ -3235,8 +3235,20 @@ halaman tidak tersedia
 
 
 
+================
+ORDER DISINI
+================
 
 
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpeg",✅ORDER DISINI 📲 Wa 082219213334
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="ORDER DISINI 📲 Wa 082219213334",📲 Wa 082219213334
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpeg",✅ORDER 📲 Wa 082219213334
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ORDER 📲 Wa 082219213334",📲 Wa 082219213334
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
 
 
@@ -7080,7 +7092,7 @@ BOLA | FA CUP
 #EXTINF:-1 group-logo="https://i.imgur.com/p2WNqf3.jpeg",BOLA | FA CUP
 
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP", Portsmouth vs Arsenal (11/1/2026 21:00 WIB ✅)
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",Liverpool vs Barnsley (13/1/2026 2:45 WIB ✅)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
