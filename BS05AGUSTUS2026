@@ -6901,6 +6901,9 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester United vs Tottenham Hotspur (SKY SPORT 8) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
 =======
 EVENT 2
 ======
@@ -6927,9 +6930,15 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #EXTINF:-1  tvg-name="Premier Sports 1 FHD" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",⚽☑Arsenal vs Sunderland (PSI)✅
 https://a1xs.vip/8000021
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Arsenal vs Sunderland (SKY SPORT 8) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+
 =======
 EVENT 3
 ======
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽Wolverhampton Wanderers vs Chelsea (SKY SPORT 2) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
 
 
 
@@ -7096,6 +7105,41 @@ LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LI
 ===============================================================================================================================================================
 FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 22/11/2025 
 ===============================================================================================================================================================
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+#EXTINF:-1  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 2 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 3 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 4 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 5 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 6 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 7 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 8 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 9 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky9.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_CALCIO ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT F1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT MAX ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_MIX ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT TOP EVENT ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
+
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpegg",ARENASPORT 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 #EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 2
@@ -7229,6 +7273,43 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u
 ===============================================================================================================================================================
 FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 22/11/2025 
 ===============================================================================================================================================================
+
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 2 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 3 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 4 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 5 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 6 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 7 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 8 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 9 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky9.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_CALCIO ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT F1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT MAX ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_MIX ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
+#EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT TOP EVENT ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
+
+
 #EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpegg",ARENASPORT 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 #EXTINF:-1 group-title="BOLA | BUNDESLIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 2
@@ -7383,6 +7464,42 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/
 ===============================================================================================================================================================
 FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 22/11/2025 
 ===============================================================================================================================================================
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 2 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 3 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 4 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 5 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 6 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 7 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 8 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 9 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky9.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_CALCIO ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT F1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT MAX ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_MIX ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT TOP EVENT ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
+
+
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpegg",ARENASPORT 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 #EXTINF:-1 group-title="BOLA | LALIGA" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 2
@@ -7537,6 +7654,42 @@ https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 ===============================================================================================================================================================
 FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 22/11/2025 
 ===============================================================================================================================================================
+
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 2 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 3 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 4 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 5 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 6 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 7 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 8 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT 9 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky9.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_CALCIO ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyactn.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT F1 ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyf1.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT MAX ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY_MIX ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
+#EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg", SKY SPORT TOP EVENT ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
+
 #EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpegg",ARENASPORT 1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/111989
 #EXTINF:-1 group-title="BOLA | SERIE A" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",ARENASPORT 2
