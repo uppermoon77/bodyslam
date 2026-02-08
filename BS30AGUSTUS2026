@@ -6872,18 +6872,12 @@ EVENT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Manchester United vs Tottenham Hotspur (BST) (OK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Liverpool vs Manchester City (BST) (OK)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
-
-#EXTINF:-1 tvg-id=""TNT 1"" tvg-logo="https://i.imgur.com/nISWTAB.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Manchester United vs Tottenham Hotspur (TNT) (OK)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Manchester United vs Tottenham Hotspur(ESC) (OK)
+#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Liverpool vs Manchester City(ESC) (OK)
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -6891,54 +6885,25 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Manchester United vs Tottenham Hotspur (FB)
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Liverpool vs Manchester City (FB)
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Manchester United vs Tottenham Hotspur (CA+3)✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Liverpool vs Manchester City (CA+3)✅
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+3.m3u8
 
-#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",⚽☑ Manchester United vs Tottenham Hotspur (Sky Sport Premier League DE) (OK)
+#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",⚽☑ Liverpool vs Manchester City (Sky Sport Premier League DE) (OK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester United vs Tottenham Hotspur (SKY SPORT 8) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
-=======
-EVENT 2
-======
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Arsenal vs Sunderland (BST) (OK)✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Arsenal vs Sunderland (CA+3)✅
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Can+3.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Arsenal vs Sunderland (FB)✅
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1  tvg-name="Premier Sports 1 FHD" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",⚽☑Arsenal vs Sunderland (PSI)✅
-https://a1xs.vip/8000021
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Arsenal vs Sunderland (SKY SPORT 8) ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑ Liverpool vs Manchester City (SKY SPORT 8) ✅
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
 
-=======
-EVENT 3
-======
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽Wolverhampton Wanderers vs Chelsea (SKY SPORT 2) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Liverpool vs Manchester City ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+#https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyplus.m3u8
 
 
 
