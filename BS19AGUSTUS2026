@@ -4935,6 +4935,322 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/pqA37KG.jpeg" group-title="DUNIA | THAILAND NON SUB", CABLE CHANNEL 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
+======================
+DUNAI | AMERIKA
+++++++++++++++++++++++
+#EXTINF:-1 group-logo="https://i.imgur.com/EKWsOFQ.jpeg",DUNIA | AMERIKA NON SUB
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4067
+https://dtv.vingt.qzz.io/dtv/4067/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax East HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8214
+https://dtv.vingt.qzz.io/dtv/8214/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4066
+https://dtv.vingt.qzz.io/dtv/4066/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8267
+https://dtv.vingt.qzz.io/dtv/8267/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemáx HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3340
+https://dtv.vingt.qzz.io/dtv/3340/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Comedy Central HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3035
+https://dtv.vingt.qzz.io/dtv/3035/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Comedy Central West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2598
+https://dtv.vingt.qzz.io/dtv/2598/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Fuse HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=365
+https://dtv.vingt.qzz.io/dtv/365/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8208
+https://dtv.vingt.qzz.io/dtv/8208/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FX Movie Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=310
+https://dtv.vingt.qzz.io/dtv/310/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FXX HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8138
+https://dtv.vingt.qzz.io/dtv/8138/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Lifetime HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3780
+https://dtv.vingt.qzz.io/dtv/3780/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Lionsgate Collection
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001618
+https://dtv.vingt.qzz.io/dtv/1001618/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nickelodeon East HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8274
+https://dtv.vingt.qzz.io/dtv/8274/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nicktoons
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=302
+https://dtv.vingt.qzz.io/dtv/302/master.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Paramount Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8245
+https://dtv.vingt.qzz.io/dtv/8245/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Paramount+ with SHOWTIME EAST HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1968
+https://dtv.vingt.qzz.io/dtv/1968/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Paramount+ with SHOWTIME WEST HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8234
+https://dtv.vingt.qzz.io/dtv/8234/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",SHOWTIME 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8252
+https://dtv.vingt.qzz.io/dtv/8252/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Showtime Extreme HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4263
+https://dtv.vingt.qzz.io/dtv/4263/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Showtime FamilyZone HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3705
+https://dtv.vingt.qzz.io/dtv/3705/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Showtime Next HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3782
+https://dtv.vingt.qzz.io/dtv/3782/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Showtime Showcase HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4224
+https://dtv.vingt.qzz.io/dtv/4224/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Action HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6219
+https://dtv.vingt.qzz.io/dtv/6219/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Black
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=531
+https://dtv.vingt.qzz.io/dtv/531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Classic
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=528
+https://dtv.vingt.qzz.io/dtv/528/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=533
+https://dtv.vingt.qzz.io/dtv/533/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3777
+https://dtv.vingt.qzz.io/dtv/3777/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Suspense
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=530
+https://dtv.vingt.qzz.io/dtv/530/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore West
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=527
+https://dtv.vingt.qzz.io/dtv/527/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",STARZ Encore Westerns
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=529
+https://dtv.vingt.qzz.io/dtv/529/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Stories by AMC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001744
+https://dtv.vingt.qzz.io/dtv/1001744/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",SYFY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8268
+https://dtv.vingt.qzz.io/dtv/8268/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TBS HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8254
+https://dtv.vingt.qzz.io/dtv/8254/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TBS West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2603
+https://dtv.vingt.qzz.io/dtv/2603/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TeenNick
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3504
+https://dtv.vingt.qzz.io/dtv/3504/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TNT HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1966
+https://dtv.vingt.qzz.io/dtv/1966/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TNT West HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2602
+https://dtv.vingt.qzz.io/dtv/2602/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",truTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1363
+https://dtv.vingt.qzz.io/dtv/1363/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TUDN HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2016
+https://dtv.vingt.qzz.io/dtv/2016/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",TV Land HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6213
+https://dtv.vingt.qzz.io/dtv/6213/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",USA Network HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8273
+https://dtv.vingt.qzz.io/dtv/8273/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Willow 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1003292
+https://dtv.vingt.qzz.io/dtv/1003292/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Willow HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3291
+https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
+
+
 
 
 =========
