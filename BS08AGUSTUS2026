@@ -7422,7 +7422,7 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 
 
 ==============================gg
-EVENT 1
+EVENT 1a
 ===============================
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7446,7 +7446,38 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky6.m
 #KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
 #https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skymix.m3u8
-===============
+==============================gg
+EVENT 2
+===============================
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+#EXTINF:-1 ch-number="102" tvg-id="ESPN.co" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS" ch-number="22" type="channel",⚽☑ Aston Villa vs Leeds United (ESC)✅
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Aston Villa vs Leeds United (SKY SPORT 8) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑Aston Villa vs Leeds United (SKY SPORT 7 ✅)
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky7.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/v788IlS.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Aston Villa vs Leeds United  (FB)
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+==============================gg
+EVENT 3
+===============================
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑ Brentford vs Brighton & Hove Albion SKY SPORT 9 ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky9.m3u8
+
+==============================gg
+EVENT 4 22 februari
+===============================
 
 #EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",⚽☑Brentford vs Arsenal (Sky Sport Premier League DE) ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
