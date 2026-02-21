@@ -5155,6 +5155,276 @@ https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",MHz Choice ✅
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 
+===============================================
+VERSION 3
+++++++++++++++++++++++++++++++++++
+#EXTINF:-1 tvg-id="NAT_GEO_SHARKS" tvg-name="Nat Geo Sharks" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nat Geo Sharks ✅
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
+
+#EXTINF:-1 tvg-id="CURIOSITY_NOW" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Curiosity Now ✅
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
+https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Willow ✅
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/smgpde3rgj/out/v1/c157f6abdf7144e8b27b7e9606bb12e5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Zone ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",James Bond 007! ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dab8e28bb3dd8335c1669dc2aa7891fc:ce8ec4255a0c5a495749ea524e4e98b4
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzhzbcmueh/out/v1/3a0e3004d0514932acc2bb6758c61ed5/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Action MAX HD East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax HD East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Movie MAX East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14a9a68a9da25997087bd8d6613d4d40:29ab18369310657053f55d4172981e92
+##https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grtjzrom8b/out/v1/dbd3bca5cad44a8c8fb2e075aa08a824/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",More MAX HD East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cinemax West ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="Nitro ",5Star MAX East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Outer MAX East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f1f10a41f93965f0ff594ca4899f31:e403a933f06bb0a23aea48c30a92cb78
+##https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xv0ecztirv/out/v1/f7a60f0d97b44dc5b0cfefff5f784b81/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO East ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ab1caa245e2d8cc4e26e0e1b63fe661:22c42d7a1679f50ca4ad37b4c1ad97fe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/out/v1/75466d737d52406e8a1c85dc70c9f183/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Comedy ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO West ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=266fed45577cd293af39165e8073bc19:8e805607852c0606ecc553bd234d78b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Family ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a33b17bf71f18a361b595934bf09e5:3ce7dd628d3f031b5c3791b82d4ad3be
+##https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijxxmehuid/out/v1/d79264cd9e2944788e507c52b5f0d3b7/cenc.mpd
+
+#EXTINF:-1 tvg-name="HBO 2 - Eastern Feed (804).us" tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO 2 ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c73219e929389385aba7d52fc5fecdf:04aac082576d853b80734f5d8d4ebbbc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0ixizzzeu/out/v1/058efc3c023b4424b4bff6c52cf7e81e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",HBO Signature ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2742f4791f17231bdb933844dabfb5bc:3c49eb8a723248f87fb8c3722874557e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",AMC+ ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59a51164c2c915352f04066a06f6e807:eba5cc362d1d63c0fe6460febca0fd11
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",AMC ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34c1715a9fd24e7d8497da043669ad66:e3ce21758f33b38413d7cfecfddcb289
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560908/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Discovery ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e5b4f0f0bf641029b2b2000665a8b49:152408adb88d19b5bfac04ccb6c493bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Discovery ID ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f500790fc198489bac7a5937cc5e2312:16ebfccee4852e9d63676106c11773bb
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561805/index.mpd
+
+===========================
+VERSION 4
+==========================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Cartoon Network ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cebda34393a4b20b0748445ba89e8c4:2c125f88407aff752517ffc485436043
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560401/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nicktoons ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Stingray Concerts ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa806baddc384a168eff4f95f06ad289:eb65e4b92473ed6e33ff05a56343dbab
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561101/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FAST AND FUN BOX ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6bd9264f24444c9a1bea842ba0bc33d:00c737b67ab210796510463a99b0b00d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561203/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",FX Life ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a75f9a2300f448089c6cdebeb97bbbd:606ae417e0e6cf4b0d353764e3140dbc
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561301/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",National Geographic ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561901/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Nat Geo Wild ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561201/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Animal Planet ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c783c19f6412fbd874ed21e17c9c2:494421f360d98a7fdda924130d662272
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561803/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Viasat Kino Action ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3d36e39d7a348b8baefe91d766502fd:c7dbd70b01503a82d081f373bfb872a3
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560902/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKWsOFQ.jpeg" group-title="DUNIA | AMERIKA NON SUB",Viasat Kino Comedy ✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc75aa7946574c98ba16581c6fcb482c:0067607f24eed00bbf50155760f8c6b3
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561404/index.mpd
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAACTION.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA ACTION HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30517&extension=ts&play_token=xibG7hzqwP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAANIMATION.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA ANIMATION HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30513&extension=ts&play_token=0OIOj9sN9C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMACOMEDY.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA COMEDY HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30516&extension=ts&play_token=GmmbmszWEQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAFAMILY.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA FAMILY HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=79467&extension=ts&play_token=CclYMOxHra
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMADRAMA.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA DRAMA HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30514&extension=ts&play_token=cevfDYK7mg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAGREATS.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA GREATS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30512&extension=ts&play_token=ELyeQVUcgX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAHITS.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA HITS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30510&extension=ts&play_token=RUVLCvhMbk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAOSCARS.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA OSCARS HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30511&extension=ts&play_token=NwnwCk6DYO
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMAPREMIERE.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA PREMIERE HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30509&extension=ts&play_token=5V4Z3wUB6p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASCIFI.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA SCIFI HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30508&extension=ts&play_token=eGkrhUSVHX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMASELECT.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA SELECT HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=949137&extension=ts&play_token=iL3is5Zsz1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYCINEMATHRILLER.png" group-title="DUNIA | AMERIKA NON SUB",SKY CINEMA THRILLER HD
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=30506&extension=ts&play_token=On9v9bMYre
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 1 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095496&extension=ts&play_token=F5Mzf7zGsF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 2 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095495&extension=ts&play_token=bcNyz9o9Vp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 3 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095494&extension=ts&play_token=MuDVnqECUj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 4 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095493&extension=ts&play_token=zxwHKIOoEC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 5 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095492&extension=ts&play_token=2QhDvjSkz1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 6 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095491&extension=ts&play_token=wbrOGzgHXM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 7 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095490&extension=ts&play_token=KRC2lNAnsg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 8 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095489&extension=ts&play_token=LwCyKJzJlT
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 9 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095488&extension=ts&play_token=6zi9FmyHaZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 10 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095487&extension=ts&play_token=o7SZrAgvrV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 11 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095486&extension=ts&play_token=fHPDtjqSoo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 12 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095485&extension=ts&play_token=Mz9x6SiqRc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 13 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095484&extension=ts&play_token=Iyn4rRcdDR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 14 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095483&extension=ts&play_token=sM7SKn4VA3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 15 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095482&extension=ts&play_token=X89UMt83w1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 16 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095481&extension=ts&play_token=JO67R6sEqC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="DUNIA | AMERIKA NON SUB",HBOMAX ORIGINAL 17 ᴴᴰ
+http://line.iptvgoat.com:80/play/live.php?mac=00:1A:79:4D:5D:F8&stream=1095480&extension=ts&play_token=Q823uy92IV
+
+#EXTINF:-1 tvg-id="Amazon.US.SundanceTV" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png" group-title="DUNIA | AMERIKA NON SUB",Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"60da54dad6804a8895d80f79bd2ef324":"528d95c9ca726d0602c28f9366a08069"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.BBCAmerica" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/02fc1e9f87d890307bc233d06dca2c4c83d8741ed43d95ed1f781d10fe21b356._SL170_FMpng_.png" group-title="DUNIA | AMERIKA NON SUB",BBC America
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.IFC" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/65bbe4aa47cc4ecd7f99ee011ffec3a7365b47230177c9245903dc5593e52674._SL170_FMpng_.png" group-title="DUNIA | AMERIKA NON SUB",IFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a15171a08a7c09585d6588b49d031252":"33270126ea0cbba11461c2189031f2d3"}
+https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.TheWalkingDeadChannel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/The_walking_dead_station._SL170_FMpng_.png" group-title="DUNIA | AMERIKA NON SUB",The Walking Dead Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"50a71b1ce9eb116cd7bd98a946d71109":"08b8b340baeebca12ef50a52c6ec1d1d"}
+https://a191aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/xocfcvmh5j/out/v1/844e15e5a0bd40c48a5a39ba08d2cd50/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" group-title="DUNIA | AMERIKA NON SUB",TNT (PXL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
 
 
 
