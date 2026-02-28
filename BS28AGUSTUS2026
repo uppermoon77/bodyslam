@@ -4811,11 +4811,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
-
-#EXTINF: -1 tvg-id="kix.macan" tvg-logo="https://https://i.imgur.com/PN7Se0B.jpeg" group-title="DUNIA | KOREA", KIX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-
+fix 28/2/2026 11:19 wib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6251,18 +6247,14 @@ NEW 24/6/2025
 =================================
 Astro citra : https://i.imgur.com/O1RVjqG.jpeg
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV3
-##https://ast.livecricketsl.live/proxy/sg.php/https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
-http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
-https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",NTV7
-http://103.209.159.198:8278/NTV7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc944fd715487ebee7f19eec4a3e88e1
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",TV8
 http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg" group-title="DUNIA | MALAYSIA",TV9
-http://103.209.159.198:8278/TV9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=016e330c761512c534ea1b11ae0521d2
+
+#EXTINF:-1 group-title="DUNIA | MALAYSIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.imgur.com/4DAWjI3.jpeg",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 
 
