@@ -7679,18 +7679,20 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 
 -->EVENT REAL YG DIATAS
 ===========================================
-EVENT 1 ➡️ 4/3/2026 ⚽ Wolverhampton Wanderers vs Liverpool 
+EVENT 1 ➡️ 5/3/2026 ⚽ Manchester City vs Nottingham Forest
 ===========================================
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑ Wolverhampton Wanderers vs Liverpool (TNT Sport 1 🇬🇧) ✅
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-##KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
-##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-https://7pal.short.gy/tntspts1
+#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester City vs Nottingham Forest (TNT Sport 4 🇬🇧) ✅
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+https://7pal.short.gy/tntspts4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Wolverhampton Wanderers vs Liverpool (SKY SPORT 8) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑ Manchester City vs Nottingham Forest (SKY SPORT 3) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
 
+
+___ INI ENGGA YA---
 #EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",⚽☑ Wolverhampton Wanderers vs Liverpool (Sky Sport Premier League DE) ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89s
@@ -7705,44 +7707,62 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 ===========================================
-EVENT 2 ➡️ 4/3/2026 ⚽ Leeds United vs Sunderland 
+EVENT 2 ➡️ 5/3/2026 ⚽ Brighton & Hove Albion vs Arsenal
 ===========================================
 
 
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑Leeds United vs Sunderland (TNT Sport 2 🇬🇧) ✅
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑Brighton & Hove Albion vs Arsenal (TNT Sport 2 🇬🇧) ✅
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
 ##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/enniazhzls/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 https://7pal.short.gy/tntspts2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Leeds United vs Sunderland (SKY SPORT 1) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+#EXTINF:-1  group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑Brighton & Hove Albion vs Arsenal  (SKY SPORT 2) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑Brighton & Hove Albion vs Arsenal (BST) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 ===========================================
-EVENT 3 ➡️ 4/3/2026 ⚽ Everton vs Burnley
+EVENT 3 ➡️ 5/3/2026 ⚽ Fulham vs West Ham United
 ===========================================
 
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑Everton vs Burnley (TNT Sport 3 🇬🇧) ✅
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑ Fulham vs West Ham United (SKY SPORT 5) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky5.m3u8
+
+===========================================
+EVENT 4 ➡️ 5/3/2026 ⚽ Aston Villa vs Chelsea
+===========================================
+
+#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑ Aston Villa vs Chelsea (TNT Sport 3 🇬🇧) ✅
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
 ##KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 ##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 https://7pal.short.gy/tntspts3
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Everton vs Burnley (SKY SPORT 2) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑ Aston Villa vs Chelsea (SKY SPORT 4) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky4.m3u8
 
 ===========================================
-EVENT 4 ➡️ 4/3/2026 ⚽ AFC Bournemouth vs Brentford 
+EVENT 5 ➡️ 5/3/2026 ⚽ Newcastle United vs Manchester United
 ===========================================
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑Newcastle United vs Manchester United (TNT Sport 1 🇬🇧) ✅
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/bsaaetko8v/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://7pal.short.gy/tntspts1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Newcastle United vs Manchester United (SKY SPORT 1) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑Newcastle United vs Manchester United (SKY SPORT 8) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky8.m3u8
 
 
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑AFC Bournemouth vs Brentford (TNT Sport 4 🇬🇧) ✅
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-https://7pal.short.gy/tntspts4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pn" group-title="BOLA | LIGA INGGRIS",⚽☑AFC Bournemouth vs Brentford  (SKY SPORT 3) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
 
 
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
