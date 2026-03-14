@@ -7947,25 +7947,12 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 
 -->EVENT REAL YG DIATAS
 ===========================================
-EVENT 1 ➡️ 5/3/2026 ⚽ Manchester City vs Nottingham Forest
+EVENT 1 ➡️ 5/3/2026 ⚽ Arsenal vs Everton
 ===========================================
-
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester City vs Nottingham Forest (TNT Sport 4 🇬🇧) ✅
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-##https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-https://7pal.short.gy/tntspts4
-
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/74fJPlk.jpeg",⚽☑ Manchester City vs Nottingham Forest (SKY SPORT 3) ✅
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Sky3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74fJPlk.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester City vs Nottingham Forest (NOW SPORTS 4)✅
-http://208.87.242.79/livehttpplay?channel_id=13010
-http://dragon1977.com:80/047306b75f/b5a06cc482d6/802485
 
 
 ___ INI ENGGA YA---
-2342#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",⚽☑ Wolverhampton Wanderers vs Liverpool (Sky Sport Premier League DE) ✅
+#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg",Sky Sport Premier League DE ✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89s
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
@@ -7975,7 +7962,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
-242354#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Wolverhampton Wanderers vs Liverpool (BST) ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Wolverhampton Wanderers vs Liverpool (BST) ✅
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
 
 ===========================================
