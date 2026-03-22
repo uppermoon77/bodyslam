@@ -7944,39 +7944,19 @@ BOLA | FA CUP
 
 -->EVENT REAL YG DIATAS
 ===========================================
-EVENT 1 ➡️ 8/3/2026 ⚽Newcastle United vs Manchester City✅
+EVENT 1 ➡️ 8/3/2026 ⚽arsenal vs city ✅
 ===========================================
+#EXTINF:-1 group-title="BOLA | FA CUP" tvg-id="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg",⚽Arsenal vs Manchester City(BEIN SPORTS 2 🇦🇺)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Newcastle United vs Manchester City✅ ⚽(TNT 1)
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=80OYrPw4JcRCToT_SZCmjg&expires=1772911250
 
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Newcastle United vs Manchester Cit✅ (Sportsnet 360)
-https://7pal.short.gy/sptsnet360
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Port Vale vs Sunderland✅ ⚽(TNT 1)
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=80OYrPw4JcRCToT_SZCmjg&expires=1772911250
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Leeds United vs Norwich City✅ ⚽(TNT 1)
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=80OYrPw4JcRCToT_SZCmjg&expires=1772911250
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Wrexham vs Chelsea✅ (TNT 2)
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=HZfcGAdn6a4h3O5kP3THPw&expires=1772911250
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Fulham vs Southampton✅ (TNT 2)
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=HZfcGAdn6a4h3O5kP3THPw&expires=1772911250
-
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Wrexham vs Chelsea✅ (Sportsnet 360)
-https://7pal.short.gy/sptsnet360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽Arsenal vs Manchester City (SKY SPORT MAX) ✅
+https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Skyfootb.m3u8
 
 
 
