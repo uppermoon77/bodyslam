@@ -6038,7 +6038,14 @@ COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP", HGTV 
 http://202.169.224.202:8800/udp/239.9.1.3:1234
 
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (US)
+#EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (USA)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (DUAL AUDIO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
 https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
@@ -6590,6 +6597,12 @@ http://202.169.224.202:8800/udp/239.4.4.2:1234
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/205.drm
 https://aspaltvpasti.top/11111/205.mpd
+
+
+#EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",LIVE 2 ✅
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 =====>>>25/3/2025<<<====
 ===
 
