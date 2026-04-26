@@ -8362,7 +8362,7 @@ https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | FA CUP",⚽☑ Chelsea vs Leeds United (26 APRIL)✅
 )https://canaiss.fazoeli.co.za/fontes/smart/espn4.m3u8
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Chelsea vs Leeds United (26 APRIL)✅
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽☑ Chelsea vs Leeds United (26 APRIL)✅
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
