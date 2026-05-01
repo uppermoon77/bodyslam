@@ -7271,7 +7271,7 @@ https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kdY7kjT.jpeg" group-title="AGAMA",AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
-=====KRISTEN
+=====KRISTEN==
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
