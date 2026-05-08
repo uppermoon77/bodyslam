@@ -8465,7 +8465,7 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
 
 -->EVENT REAL YG DIATAS
-___ INI ENGGA YA---
+___ INI ENGGA YA---sss
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑(Hub Premier 1)✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -8474,6 +8474,14 @@ ___ INI ENGGA YA---
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 https://starhub-307.tvsucker.workers.dev/bpk-tv/HubPremier1/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑(Hub Premier 1) TOS✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+sh-bks400-09.starhubgo.com/bpk-token/1ab@vepeimpu2rarn1yh0kcsq4iqyofzdbc1vmdch0aa/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query
 
 #EXTINF:-1 ch-number="110" tvg-id="ESPN HD.uy" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑(Universo)✅
 #KODIPROP:inputstream.adaptive.license_type=clearkey
