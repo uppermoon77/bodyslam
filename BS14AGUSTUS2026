@@ -3703,9 +3703,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 ==========
 NASIONAL
 ===========
+BG LAMA https://i.imgur.com/oZl4oNH.jpeg
+BG BARU https://i.imgur.com/3GVkoob.gif
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/oZl4oNH.jpeg",NASIONAL
+#EXTINF:-1 group-logo="https://i.imgur.com/3GVkoob.gif",NASIONAL
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
