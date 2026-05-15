@@ -8343,10 +8343,21 @@ BOLA | FA CUP
 
 -->EVENT REAL YG DIATAS
 ===========================================
-EVENT 1 ➡️ 8/3/2026 ⚽arsenal vs city ✅
+EVENT 1 ➡️ 8/3/2026 ⚽
+Chelsea vs Manchester City ✅
 ===========================================
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2WNqf3.jpeg" group-title="BOLA | FA CUP",⚽☑ Chelsea vs Leeds United (26 APRIL)✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City (FUBO SPORTS 1)✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id=\"ESPN HD.uy\" tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City (ESPN 🇨🇴)✅
+http://45.173.75.4:2061/play/a09z
+
+#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City TNT Sport 1 🇬🇧✅
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8356,8 +8367,30 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c3
 #https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 https://7pal.short.gy/tntspts1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | FA CUP",⚽☑ Chelsea vs Leeds United (26 APRIL)✅
-https://canaiss.fazoeli.co.za/fontes/smart/espn.m3u8
+
+#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City ✅LIVE 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://aspaltvpasti.top/11111/9182.mpd
+
+#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City ✅ LIVE 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://aspaltvpasti.top/11111/9183.mpd
+
+
+#EXTINF:-1 tvg-id="exyuarenasport1hdhr" tvg-name="EXYU - ARENA SPORT 1 HD (HR)" tvg-logo="https://i.imgur.com/OCLfAnD.gif" group-title="BOLA | FA CUP",⚽ Chelsea vs Manchester City (ARENA 1 KROASIA)✅
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/74897.ts
 
 
 
@@ -8499,6 +8532,7 @@ EVENT 1 ➡️ 10/4/2026 ⚽
 Manchester City vs Crystal Palace
 ===========================================
 
+
 #EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",Manchester City vs Crystal Palace ✅SKY SPORT PREMIER LEAGUE DE
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
 #EXTINF:-1 tvg-id="deskysportpremierleague4k²" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K²" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",Manchester City vs Crystal Palace ✅SKY SPORT PREMIER LEAGUE DE
@@ -8553,6 +8587,108 @@ https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
 #https://aspaltvpasti.top/11111/9183.mpd
 
 ============================================================
+
+===========================================
+EVENT 2 🔜 10/4/2026 ⚽ 
+
+Manchester United vs Nottingham Forest
+===========================================
+
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",🔜Manchester United vs Nottingham Forest (MUTV) ✅
+https://get.perfecttv.net/mutv.mpd
+
+#EXTINF:-1 tvg-id="deskysportpremierleague4k" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Nottingham Forest ✅SKY SPORT PREMIER LEAGUE DE
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1030402.ts
+#EXTINF:-1 tvg-id="deskysportpremierleague4k²" tvg-name="DE - SKY SPORT PREMIER LEAGUE 4K²" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Nottingham Forest ✅SKY SPORT PREMIER LEAGUE DE
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1140272.ts
+
+#EXTINF:-1 tvg-id="ukhubpremier01fhd" tvg-name="UK - HUB PREMIER 01 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜 Manchester United vs Nottingham Forest ✅(HUB PREMIER 01 FHD)
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
+
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",USA NETWORK
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
+
+#EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜 Manchester United vs Nottingham Forest ✅(STAR SPORTS SELECT 1 FHD)
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(usa-west)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜Manchester United vs Nottingham Forest (BST) ✅
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Li/Ep1.m3u8
+
+#EXTINF:-1 tvg-id=\"ESPN HD.uy\" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🔜 Manchester United vs Nottingham Forest (ESPN 🇨🇴)✅
+http://45.173.75.4:2061/play/a09z
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester United vs Nottingham Forest (FUBO SPORTS 1)✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="Champions.TV.5.id" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Manchester City vs Crystal Palace  ✅LIVE 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+#https://pidio.becek.workers.dev/9182.mpd
+#https://aspaltvpasti.top/11111/9182.mpd
+
+#EXTINF:-1 tvg-id="Champions.TV.6.id" tvg-name="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS", ⚽☑ Manchester City vs Crystal Palace  ✅ LIVE 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+#https://pidio.becek.workers.dev/9183.mpd
+#https://aspaltvpasti.top/11111/9183.mpd
+
+
+
+==================
+
+===========================================
+EVENT 3 🔜 10/4/2026 ⚽ 
+
+Leeds United vs Brighton & Hove Albion
+===========================================
+
+
+
+===========================================
+EVENT 3 🔜 10/4/2026 ⚽ 
+
+Wolverhampton Wanderers vs Fulham
+===========================================
+===========================================
+EVENT 4 🔜 10/4/2026 ⚽ 
+
+Wolverhampton Wanderers vs Fulham
+===========================================
+===========================================
+EVENT 5 🔜 10/4/2026 ⚽ 
+
+Brentford vs Crystal Palace
+===========================================
+===========================================
+EVENT 5 🔜 10/4/2026 ⚽ 
+
+
+Everton vs Sunderland
+===========================================
+===========================================
+EVENT 5 🔜 10/4/2026 ⚽ 
+
+Newcastle United vs West Ham United
+===========================================
+==========================================
 
 #EXTINF:-1 tvg-id="Fubo.us" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/v788IlS.jpeg",live 1 Fubo Sports 
 https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
