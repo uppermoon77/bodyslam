@@ -8612,9 +8612,40 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (SS CALCIO 1)
 http://lordstreams.live:80/9857855271/8369553594/661330
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo=https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (SS CALCIO 2)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO ᵁᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (SS CALCIO 2)
 
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-ID="canalplussport.fr" tvg-name="|FR| Canal+ Sport ᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal Canal+ Sport ᴴᴰ
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/250
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-ID="canalplussport.fr" tvg-name="|FR| CANAL+ SPORT ᵁᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal CANAL+ SPORT ᵁᴴᴰ
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/250679
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg"  group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (HK: NOW SPORTS 1 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791015&extension=ts&play_token=91x3xVL6MV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg"  group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal(┃SKY SPORT AUSTRIA 1 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=36062&extension=ts&play_token=QbQ5b1qDze
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg"  group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (UK| SKY SPORTS PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:17:02:32; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F734451D4C3683922E8DFA0AD0889308
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=79473&extension=ts&play_token=1sJI9g51uA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg"  group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal (UK| SKY SPORTS PREMIER LEAGUE HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:17:02:32; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer F734451D4C3683922E8DFA0AD0889308
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:17:02:32&stream=1458669&extension=ts&play_token=jvBDdkBIwc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg"  group-title="BOLA | LIGA INGGRIS",🏆 Crystal Palace vs Arsenal(NZ: SKY SPORTS PREMIER LEAGUE 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=670268&extension=ts&play_token=9NxPLRsVQb
 =====
 ===========================================
 EVENT 2 🔜 10/4/2026 ⚽ 
@@ -8635,27 +8666,53 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090640.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽☑ Brighton & Hove Albion vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314080&extension=ts&play_token=D2rnxGFVDu
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽☑ Brighton & Hove Albion vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=620783&extension=ts&play_token=wZeXXZnB01
+
 ===========================================
 EVENT 3 🔜 10/4/2026 ⚽ 
 
 Manchester City vs Aston Villa
 ===========================================
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ Sport 360 ᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston Villa CANAL+ Sport 360 ᴴᴰ
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256122
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-ID="canalplussport360.fr" tvg-name="|FR| CANAL+ Sport 360 ᵁᴴᴰ" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston VillaCANAL+ Sport 360 ᵁᴴᴰ
+http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256124
 
 #EXTINF:-1 tvg-id="sportsstarsportsselect1fhd" tvg-name="SPORTS - STAR SPORTS SELECT 1 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston Villa STAR SPORTS SELECT 1 FHD✅
 http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090639.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Brighton & Hove Albion vs Manchester United (FUBO SPORTS 1)✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston Villa (FUBO SPORTS 1)✅
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314079&extension=ts&play_token=Ye7gQRVMWO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Manchester City vs Aston Villa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=620784&extension=ts&play_token=nKrSr0V4vI
+
 
 ==================
 
 ===========================================
-EVENT 3 🔜 10/4/2026 ⚽ 
+EVENT 4 🔜 10/4/2026 ⚽ 
 
 Liverpool vs Brentford (LAGI DIKERJAIN)
 ===========================================
@@ -8669,11 +8726,216 @@ http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1090640.ts
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ Liverpool vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312050&extension=ts&play_token=RX1pF5YHxQ
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ Liverpool vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=870313&extension=ts&play_token=e2lVvOmjmw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ Liverpool vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312185&extension=ts&play_token=9C8D0D8uDG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽ Liverpool vs Brentford (HUB PREMIER 5 )
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=620782&extension=ts&play_token=xf1vKcvdQU
 
+===========================================
+EVENT 5 🔜 10/4/2026 ⚽ 
 
+Sunderland vs Chelsea
+===========================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Sunderland vs Chelsea (UK: SKY SPORTS + HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621651&extension=ts&play_token=3d4UX2kZeB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Sunderland vs Chelsea (UK: SKY SPORTS + HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621631&extension=ts&play_token=QsqxiYOhY0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Sunderland vs Chelsea (┃UK┃ SKY SPORTS+ HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312028&extension=ts&play_token=cjczn2KV2b
 
 
 =============
+===========================================
+EVENT 6 🔜 10/4/2026 ⚽ 
+
+West Ham United vs Leeds United
+===========================================
+#EXTINF:-1 ch-number="110" tvg-id="ESPN HD.uy" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ West Ham United vs Leeds United (Universo)✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽West Ham United vs Leeds United (HUB PREMIER 9 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=620778&extension=ts&play_token=AMs6BIhAx4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽West Ham United vs Leeds United (HK: NOW SPORTS PRIME 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791025&extension=ts&play_token=s4ja8udk0v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽West Ham United vs Leeds United (UK: SKY SPORTS FOOTBALL HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621654&extension=ts&play_token=LNx20sxpyO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽West Ham United vs Leeds United (UK: SKY SPORTS FOOTBALL HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621632&extension=ts&play_token=4LZTNavWTn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽West Ham United vs Leeds United (┃UK┃ SKY SPORTS FOOTBALL HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312031&extension=ts&play_token=yNJ9wIRCn4
+===========================================
+EVENT 7 🔜 10/4/2026 ⚽ 
+
+Tottenham Hotspur vs Everton
+===========================================
+
+#EXTINF:-1 tvg-id="ukhubpremier01fhd" tvg-name="UK - HUB PREMIER 01 FHD" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton ✅(HUB PREMIER 01 FHD)
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/324806.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton  ASTRO PREMIER LEAGUE✅
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-pl-1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton ASTRO GRANDSTAND
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-grandstand
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Tottenham Hotspur vs Everton  (TELEMUNDO)✅
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93bf10f6398139ff9bf0f28c641fd371:9945fc9d36616ec453f3942b45f196c4
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WNEU)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton (┃UK┃ HUB PREMIER 8 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314084&extension=ts&play_token=4wcDadizJo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton (4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1556135&extension=ts&play_token=lJ0Ff4qXUH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton (4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EEDA8E5D7270E241594CA0CD5BCA16F3
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=1948624&extension=ts&play_token=3fT1DUKCgq
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton  (┃UK┃ SKY SPORTS MAIN EVENT FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=394553&extension=ts&play_token=aktrDchxFx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton  (┃UK┃ SKY SPORTS MAIN EVENT HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312176&extension=ts&play_token=z2vucS3AMY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Tottenham Hotspur vs Everton  (UK: SKY SPORTS MAIN EVENTS HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621656&extension=ts&play_token=RA3e5IIas9
+===========================================
+EVENT 7 🔜 10/4/2026 ⚽ 
+
+Nottingham Forest vs AFC Bournemouth
+===========================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (ASTRO ARENA)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (ASTRO ARENA 2)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena-2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (┃UK┃ HUB PREMIER 7 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1314083&extension=ts&play_token=YIHzeO173G
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (HUB PREMIER 7 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=620780&extension=ts&play_token=7husNHJt0c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (UK: SKY SPORTS + HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621651&extension=ts&play_token=3d4UX2kZeB
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (UK: SKY SPORTS + HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621631&extension=ts&play_token=QsqxiYOhY0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽Nottingham Forest vs AFC Bournemouth (┃UK┃ SKY SPORTS+ HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312028&extension=ts&play_token=cjczn2KV2b
+
+===========================================
+===========================================
+EVENT 8 🔜 10/4/2026 ⚽ 
+
+West Ham United vs Leeds United
+===========================================
+#EXTINF:-1 tvg-id="" group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽West Ham United vs Leeds United (USA NETWORK)
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
+
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽West Ham United vs Leeds United (HK: NOW SPORTS PRIME 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=791025&extension=ts&play_token=s4ja8udk0v
+
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽West Ham United vs Leeds United (UK: SKY SPORTS FOOTBALL HEVC HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621654&extension=ts&play_token=LNx20sxpyO
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽West Ham United vs Leeds United (UK: SKY SPORTS FOOTBALL HEVC 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C86AC5AA0B48878E4984D6A9B171FDD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=621632&extension=ts&play_token=4LZTNavWTn
+#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",⚽West Ham United vs Leeds United (┃UK┃ SKY SPORTS FOOTBALL HEVC FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C8:7B:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7AD9E55F189BE43CB1AA442CE216385A
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312031&extension=ts&play_token=yNJ9wIRCn4
+
+===========================================
+EVENT 9 🔜 10/4/2026 ⚽ 
+
+Fulham vs Newcastle United
+===========================================
+
+============================================================================saMPAI DISINI
 
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⚽☑ Leeds United vs Brighton & Hove Albion  (TELEMUNDO)✅
