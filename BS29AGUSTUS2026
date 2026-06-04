@@ -5019,81 +5019,146 @@ http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 
-
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHKWorldPremium.jp" group-title="DUNIA | JEPANG NON SUB" tvg-logo=https://i.imgur.com/livnmIp.jpeg", NHK WORLD PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NHK G
+http://akariko.netgenx.site/stream/jp/NHK_G/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NHK E
+http://akariko.netgenx.site/stream/jp/NHK_E/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NTV
+http://akariko.netgenx.site/stream/jp/Nippon_TV/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TBS
+http://akariko.netgenx.site/stream/jp/TBS/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg"https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png" group-title="DUNIA | JEPANG NON SUB",Fuji TV
+http://akariko.netgenx.site/stream/jp/Fuji_TV/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TV Asahi
+http://akariko.netgenx.site/stream/jp/TV_Asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TV Tokyo
+http://akariko.netgenx.site/stream/jp/TV_Tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Tokyo MX
+http://akariko.netgenx.site/stream/jp/Tokyo_MX1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Tokyo MX2
+http://akariko.netgenx.site/stream/jp/Tokyo_MX2/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",QVC JAPAN ジャパン
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NHK BS
+http://akariko.netgenx.site/stream/jp/NHK_BS/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS NTV
+http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS Asahi
+http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS TBS
+http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS TV Tokyo
+http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS Fuji
+http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS10
+http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS11
+http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS12
+http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NHK BS4K
+http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",WOWOW Prime
+http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",WOWOW Cinema
+http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",WOWOW Live
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",BS 10 Premium
+http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",JSport 1
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",JSport 2
+http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",JSport 3
+http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",JSport 4
+http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Green Channel
+http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Animax
+http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Nihon Eiga Senmon
+http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Sky A
+http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg", ARIRANG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Gaora Sports
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",AT-X
+http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Space Shower TV
+http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",MTV
+http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Kayo Pops
+http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Kids Station
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Disney Channel
+http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Cartoon Network Japan
+http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",NTV G+
+#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Family Gekijyo
+http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Mondo TV
+http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Music On TV
+http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Mnet
+http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="golfnetwork.jp" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Golf Network
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="thecinema.jp" tvg-logo="https://i.imgur.com/livnmIp.jpeg",The Cinema
+http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TBS Channel 1
+http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TBS Channel 2
+http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TV Asahi Channel 1
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",TV Asahi Channel 2
+http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Fuji TV One
+http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Fuji TV Two
+http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Fuji TV Next
+http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Neco Channel
+http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Dlife
+https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Toei Channel
+http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Fighting TV Samurai
+http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Entermei Tele
+#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Sport Live Plus
+http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Home Drama Channel
+http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Channel Ginga
+http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Tabi Channel
+http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",Pigoo (NSFW)
+http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/livnmIp.jpeg" group-title="DUNIA | JEPANG NON SUB",V Paradise (NSFW)
+http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
-==================NEW
-
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G
-https://nl.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E
-https://nl.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV
-https://nl.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TB
-https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV
-https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi
-https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo
-https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Tokyo MX
-https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Tokyo MX2
-https://nl.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS
-https://nl.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS NTV
-https://nl.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Asahi
-https://nl.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TBS
-https://nl.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TV Tokyo
-https://nl.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Fuji
-https://nl.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS10
-https://nl.utako.moe/bs10/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS11
-https://nl.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS12
-https://nl.utako.moe/bs12/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS4K
-https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Prime
-https://nl.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Cinema
-https://nl.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Live
-https://nl.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS 10 Premium
-https://nl.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 1
-https://nl.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 2
-https://nl.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 3
-https://nl.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 4
-https://nl.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Green Channel
-https://nl.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Animax
-https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Pigoo (NSFW)
-https://nl.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-logo="https://i.imgur.com/livnmIp.jpeg",V Paradise (NSFW)
-https://nl.utako.moe/v_paradise/index.m3u8
 
 
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
