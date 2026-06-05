@@ -4779,20 +4779,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 
 ===========https://i.imgur.com/7mZwDie.jpeg"
 
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS NOW 1
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/7mZwDie.jpeg" group-title="FILM",HITS NOW 2
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+HITS NOW Cover  https://i.imgur.com/7mZwDie.jpeg
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5230,11 +5217,10 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 http://125.227.210.55:17478/VideoInput/play.ts
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://i.imgur.com/tBMPp0s.jpeg" group-title="DUNIA | KOREA",K-PLUS
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-#https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
+#EXTINF:-1 tvg-id="101.astro" tvg-name="K PLUS FHD" tvg-logo="https://i.imgur.com/tBMPp0s.jpeg"
+#EXTINF:-1 tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_8ijijzlz/landscape_carousel_hdpi.webp" group-title="DUNIA | KOREA",🆕 K-PLUS
+http://ogietv.biz.id:80/aqin/aqin168/301.ts
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
@@ -10425,6 +10411,16 @@ VOD | VOD | VOD
 ======================================================================
 
 #EXTINF:-1 group-logo="https://imgur.com/a/sCLBcZw",VOD TRIAL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-panor-2-2026-lk21-150x225.jpg.webp" group-title="VOD TRIAL",Panor 2
+https://drive.usercontent.google.com/download?id=1XMRjE9ZCOcmSlVU1PQZX-1ZssSunUeAu&export=download&authuser=0&confirm=t&uuid=5c1f61e4-43be-4a75-b8d2-19444cdd3f8f&at=ALBwUgmCUoTW7LzW43UXomthPjVI%3A1779451833963
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/05/film-punisher-one-last-kill-2026-lk21-150x225.jpg" group-title="VOD TRIAL",The Punisher: One Last Kill
+https://drive.usercontent.google.com/download?id=1FdSw0_cQ-xmZHS7dMOu1L0duwJZRLIIV&export=download&authuser=0&confirm=t&uuid=4863689e-2773-498f-8b3f-272379861211&at=ALBwUgmqYTxXXRfAfgKzlPRhrd91%3A1779451590411
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGVlOWNmMDQtOGYwNy00NjhkLWI2NDUtMmRjYmYxMWJjZDg2XkEyXkFqcGc@._V1_.jpg" group-title="VOD TRIAL",Rise of the Conqueror
+https://drive.usercontent.google.com/download?id=1315lDSg8l5BmZASi6VZCRG9VhRKkdftW&export=download&authuser=0&confirm=t&uuid=3d1bec1e-5257-48b5-8ebd-452297ad8dfc&at=ALBwUgngMb09SYaj3mkHVHr-69Mo%3A1777559816113
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.prd.api.discomax.com/qvpLC/NgY36zYQxW2LOeEvQ.jpeg" group-title="VOD TRIAL", 976-Jurassic World Rebirth
 #KODIPROP:inputstream.adaptive.license_type=widevine
