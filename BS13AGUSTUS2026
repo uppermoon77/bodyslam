@@ -10375,6 +10375,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
 ========================
+#EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",LIVE ✅
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.148.44.38:8000/play/a05c/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+http://202.169.224.202:8800/udp/239.4.4.2:1234
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",DAZN1
+http://50.7.120.34:8080/DAZN1/index.m3u8
+============================
+======================
 
 #EXTINF:-1 group-logo="https://i.imgur.com/tRY91LJ.jpeg",BOLA | ASEAN U19 Championship 2026
 
