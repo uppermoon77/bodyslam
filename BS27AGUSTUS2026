@@ -3709,6 +3709,11 @@ BG BARU https://i.imgur.com/3GVkoob.gif
 
 #EXTINF:-1 group-logo="https://i.imgur.com/3GVkoob.gif",NASIONAL
 
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36i/537.36"} 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4212,6 +4217,10 @@ NEW 4/5/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 UPDATE 12/9/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+#EXTINF:-1 tvg-id="12" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36i/537.36"} 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -7527,22 +7536,23 @@ UFC
 ==================
 NEW 4/5/2025
 ==================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.pngg" group-title="OLAHRAGA | UFC",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_1_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | UFC",TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_2_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | UFC",TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_3_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | UFC",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kilatlive.net
-https://rr4---sn-8pxuuxa-on.applecdnstore.com/UK_TNT_SPORTS_4_TV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",🆕 UFC TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕 TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNT SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100775
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",TNT SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100777
+
 ===
 #EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/1vqowr7.png", SONY 1
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt.m3u8
@@ -7553,14 +7563,6 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u
 
 https://i.imgur.com/1vqowr7.png
 ===Edit 11/12/2024
-
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 01
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
-
-
-
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",GB : TNT SPORTS 02
-http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
 #EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",UFC
 https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
@@ -7854,43 +7856,18 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-beinsports-3
 
 
 
-#EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", TNT Sport 1 🇬🇧✅
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 TNT SPORTS 01
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258595
 
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", TNT Sport 2 🇬🇧 ✅
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕TNT SPORTS 02
+http://hardcoremedia.xyz:80/fadkjokz/4950078150/258600
 
-#EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", TNT Sport 3 🇬🇧 ✅
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-https://7pal.short.gy/tntspts3
-
-#EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2", TNT Sport 4 🇬🇧 ✅
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-#https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",TNT SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100775
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2C",TNT SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://lunar.pm:8080/Cynthiab/Travel66/100777
 https://7pal.short.gy/tntspts4
 
 ===
