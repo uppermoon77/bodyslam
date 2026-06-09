@@ -10441,6 +10441,17 @@ http://202.169.224.202:8800/udp/239.4.4.2:1234
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",LIVE 2 ✅
 http://opplextv.cyou:8080/nasir6160/nasir/351030
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH" ,LIVE 3 ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://yallavoide.yalla-shoot-zhubo.com/sport/202_5450309_1.m3u8?auth_key=1781096531-0-0-39632c24dcffa7a0872b915c475523e3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH" ,LIVE 4 (Coba tes ini) ✅
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+https://stream.titanlivescore.com/live/default-100000095.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",DAZN1
 http://50.7.120.34:8080/DAZN1/index.m3u8
