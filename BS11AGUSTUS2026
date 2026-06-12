@@ -8643,6 +8643,36 @@ xxx
 #EXTINF:0 group-title="BOLA | PIALA DUNIA 2026" tvg-id="3663" tvg-logo="https://i.imgur.com/vI113x2.jpeg" tvg-rec="0",🆕 LIVE 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8
 
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕 RTB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕RTB Aneka FHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕RTB Go Live FHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕CCTV5 ✅
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕CCTV5+
@@ -8779,11 +8809,25 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/
 #EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽Rai 1 HD
 http://85.14.32.26:8800/udp/239.100.10.141:5000
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽D SPORTS +
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽D SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽D SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026", TIPIK 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
