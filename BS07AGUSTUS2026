@@ -6081,17 +6081,6 @@ http://202.169.224.202:8800/udp/239.9.1.3:1234
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="hgtv" tvg-logo="https://i.imgur.com/AUrp3P2.png" group-title="GAYA HIDUP",HGTV (DUAL AUDIO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/hgtv_hd/default/index.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://i.imgur.com/vFXFKJy.png" group-title="GAYA HIDUP",AFN
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vFXFKJy.png" group-title="GAYA HIDUP", AFN (English)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6215,19 +6204,9 @@ http://103.66.62.83:8000/play/a03z/index.m3u8
 
 =====EDT [21/11/2024]
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang
-https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
-
 COVER 4k TRAVEL https://i.imgur.com/w9XdsHn.jpeg
 
-
+tvg-logo="https://i.imgur.com/WKctpvd.png",Arirang
 =====EDT [21/11/2024]
 
 
@@ -6282,19 +6261,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/DHcaxV2.png" group-title="GAYA HIDUP",HITS NOW 1
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITS Now.id" tvg-name="HITS Now.id" tvg-logo="https://i.imgur.com/DHcaxV2.png" group-title="GAYA HIDUP",HITS NOW 2
-https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+HITS NOW COVER tvg-logo="https://i.imgur.com/DHcaxV2.png"
 
 ===
 
@@ -6350,8 +6317,6 @@ EDT
 ===
 
 
-#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/MALAYSIApremium1.xml" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/2vg4oux.png",TV Okey
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 =======edt
@@ -6382,11 +6347,6 @@ https://fl61.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
-
-#EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/ja7Co8v.png", THRILL
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH//thrill/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8197,14 +8157,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA", CNN International
 https://jmp2.uk/stvp-CHBD800001D0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" group-title="BERITA",CNBC Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci80LzQwMjhjNjg1NjVmYTc5Y2UwMTY2NTg2ODA0MGEzNDNmL21hbmlmZXN0Lm1wZA==&code=777
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5iu6wvo.jpeg" tvg-url="https://bit.ly/JejeVisionEPG" group-title="BERITA",CNBC INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2097905317_b384000_sleng.m3u8
 
 
 SINDONEWS COVER : https://i.imgur.com/5iu6wvo.jpeg
