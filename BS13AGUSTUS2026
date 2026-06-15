@@ -7481,6 +7481,13 @@ UFC
 NEW 4/5/2025
 ==================
 
+#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕SONY SPORTS TEN 1 HD
+https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
+#EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕SONY SPORTS TEN 2 HD
+https://sm-monirul.top/toffee/play/sony_sports_2_hd.m3u8
+#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-name="SONY SPORTS TEN 5 HD" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕SONY SPORTS TEN 5 HD
+https://sm-monirul.top/toffee/play/sony_sports_5_hd.m3u8
+
 #EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg",🆕 UFC TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 
