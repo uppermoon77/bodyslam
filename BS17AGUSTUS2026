@@ -5934,7 +5934,7 @@ OLAHRAGA | TENNIS
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sDXD9Qy.jpeg",OLAHRAGA | TENNIS
 
-EXTINF:-1 group-title="OLAHRAGA | TENNIS" tvg-id="" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg",BEIN SPORTS 1 🇦🇺
+EXTINF:-1  group-title="OLAHRAGA | TENNIS" tvg-id="" tvg-logo="https://i.imgur.com/sDXD9Qy.jpeg",BEIN SPORTS 1 🇦🇺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7531,22 +7531,11 @@ http://lunar.pm:8080/Cynthiab/Travel66/100775
 http://lunar.pm:8080/Cynthiab/Travel66/100777
 
 ===
-#EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/1vqowr7.png", SONY 1
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt.m3u8
-#EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/1vqowr7.png", SONY 2
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt2.m3u8
-#EXTINF:-1 group-title="OLAHRAGA | UFC" tvg-logo="https://i.imgur.com/1vqowr7.png", SONY 3
-https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Sonyt3.m3u8
+
 
 https://i.imgur.com/1vqowr7.png
 ===Edit 11/12/2024
 
-#EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",UFC
-https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
-#EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",Boxing TV
-https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
-#EXTINF:-1 group-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",MMA-TV.com
-https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
 
 #EXTINF:-1 tvg-id="272" tvg-chno="320" tvg-name="mma-tv" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC", MMA TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -7571,11 +7560,19 @@ GOLF
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sInIG51.jpeg",OLAHRAGA | GOLF
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",GOLF CHANNEL 🇸🇰 ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕✅SKY SPORT GOLF (Bhs English)
+http://185.246.209.113/SkySportsGolf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕Golf Network (Bhs Jepang)
+http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",✅GOLF CHANNEL (Bhs Slowakia) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
@@ -7597,20 +7594,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_spotv2/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Golf+✅
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wadukbau.my.id/Waduktv/license.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly9jZG5qa3Q5MTMudHJhbnN2aXNpb24uY28uaWQ6MTAwMC9saXZlL21hc3Rlci8zLzQwMjhjNjg1NzFiMzkxNGIwMTcyMGU3ZmY0Mzc2ZDIxL21hbmlmZXN0Lm1wZA==&code=777
-
-#EXTINF:-1 tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",SKY SPORTS GOLF ✅
-http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9293/index.m3u8
-https://zamlb.tgaadi.workers.dev/1785.ts
-https://mimipipi22.github.io/logo/offline.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",CCTB Golf & Tennis ✅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",CCTB Golf & Tennis(Bhs China) ✅
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 
 
@@ -7790,6 +7774,17 @@ OLAHRAGA POPULER 2
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/1vqowr7.png",OLAHRAGA POPULER 2
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕(TSN1HD)
+http://185.246.209.113:80/TSN1HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕(TSN2HD)
+http://185.246.209.113:80/TSN2HD/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕(TSN3HD)
+http://185.246.209.113:80/TSN3HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕(TSN4HD)
+http://185.246.209.113:80/TSN4HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕(TSN5HD)
+http://185.246.209.113:80/TSN5HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiersports Hd.ph" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8090,24 +8085,35 @@ FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
 
-#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN1HD
+http://185.246.209.113:80/TSN1HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN2HD
+http://185.246.209.113:80/TSN2HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN3HD
+http://185.246.209.113:80/TSN3HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN4HD
+http://185.246.209.113:80/TSN4HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 16",🆕✅TSN5HD
+http://185.246.209.113:80/TSN5HD/index.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
-#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
+#EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | FORMULA 1",Golazo Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",Golazo Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA | FORMULA 1",Golazo Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",Golazo Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
@@ -8471,18 +8477,13 @@ NEW CATEGORY - RUGBY -AMERICAN FOOTBALL
 =====================================================================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/bbRoPk2.png",OLAHRAGA | AMERICAN FOOTBALL
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/bbRoPk2.png" group-title="OLAHRAGA | AMERICAN FOOTBALL",NFL NETWORK 🇺🇸 (PXL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.m3u8
+#EXTINF:-1 tvg-id="nfl" group-logo="https://i.imgur.com/bbRoPk2.png",OLAHRAGA | AMERICAN FOOTBALL,🆕NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+#https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/bbRoPk2.png" group-title="OLAHRAGA | AMERICAN FOOTBALL",NFL REDZONE 🇺🇸 (PXL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
-
+#EXTINF:0 group-logo="https://i.imgur.com/bbRoPk2.png",OLAHRAGA | AMERICAN FOOTBALL tvg-rec="0",🆕NFL Network CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6424/index.m3u8
 
 
 
@@ -8548,18 +8549,20 @@ xxx
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vI113x2.jpeg",BOLA | PIALA DUNIA 2026
 
-#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (CIGNAL TV)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN1HD)
+http://185.246.209.113:80/TSN1HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN2HD)
+http://185.246.209.113:80/TSN2HD/index.m3u8 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN3HD)
+http://185.246.209.113:80/TSN3HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN4HD)
+http://185.246.209.113:80/TSN4HD/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 0 (TSN5HD)
+http://185.246.209.113:80/TSN5HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (CIGNAL TV 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+#EXTINF:-1  tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (Mono 29 Thai)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vI113x2.jpegk" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 1 (TUDN)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -8659,6 +8662,14 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕CCTV5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 
+#EXTINF:-1 tvg-name="FIFA World Cup" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",🆕⚽ LIVE 15 (TVP Sport)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽Tyc Sports Channel 1 - ARG 🇦🇷 ✅
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
@@ -8683,22 +8694,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=61b535258a2c45b1a3f899b39e03a75b:665713a1678fe41efe5510d32bfbe26d
 https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
 
-#EXTINF:-1 tvg-id="SporTVBR" tvg-name="SporTV BR" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽SporTV BR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026", ⚽SportTV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="SporTV2BR" tvg-name="SporTV 2 BR" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽SporTV 2 BR
+#EXTINF:-1 tvg-id="SporTV2BR" tvg-name="SporTV 2 BR" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | PIALA DUNIA 2026",⚽SporTV 1 BR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
