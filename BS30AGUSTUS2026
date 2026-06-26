@@ -3928,23 +3928,14 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_s
 =======
 
 =======
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 1
+#EXTINF:-1 tvg-id="ID.201" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 1️⃣
+https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/trs7.m3u8
+#http://baka.semar.my.id:8000/play/a05f/index.m3u8
+#http://103.148.44.38:8000/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 2️⃣
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",🆕 TRANS 7 HD 2
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",Trans 7 HD 3
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
 ===========
