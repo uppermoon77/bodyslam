@@ -8552,23 +8552,15 @@ xxx
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vI113x2.jpeg",BOLA | PIALA DUNIA 2026
 
-#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 Pantai Gading vs Norwegia (LOKAL)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="0_wwo03gjk" tvg-name="h"group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 Inggris vs RD Kongo (LOKAL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstreamclass=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://tencent-css.byteplaycdn.com/52c5b6ef7e5c9ce8b33d863b3a027285/6A448E1C/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key={"618880fd141330378cf6aff5d48a252c":"835e5fc97bfec870d8ac7e3d145e14ad","efe538648aad30c9893edf1a69eb8c8e":"fe9b77088a67777af435c3fa5f1bbdd0"}
+http://ngewedanaapbn.full.diskon.cloud/maxstream/url.php?id=0_zb9e4a6o
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:82:F8:DB; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BA9EA5A7887386CEBA37D4BF835EF8A0
-http://pro.most8knew.com:80/play/live.php?mac=00:1A:79:82:F8:DB&stream=1239023&extension=ts&play_token=tN7oQVfSlH
-#EXTINF:-1 tvg-id="414139" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 Pantai Gading vs Norwegia (CA EN: TSN 4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer 24509B243FB8B9EA622430C1B271B342
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=414139&extension=ts&play_token=DBdB3utJKU
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:82:F8:DB; stb_lang=en; timezone=GMT
