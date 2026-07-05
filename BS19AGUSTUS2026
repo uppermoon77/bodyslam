@@ -8487,14 +8487,14 @@ xxx
 
 #EXTINF:-1 group-logo="https://i.imgur.com/vI113x2.jpeg",BOLA | PIALA DUNIA 2026
 
-
-#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0 Canada vs Morocco (LOKAL)
+#EXTINF:-1 group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0  Brazil vs Norway (LOKAL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
 https://tencent-css.byteplaycdn.com/975b368bdfff1e1663c23ac92af4d008/6A49D4DC/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
+
 
 #EXTINF:-1 tvg-id="" group-title="BOLA | PIALA DUNIA 2026" tvg-logo="https://i.imgur.com/vI113x2.jpeg",🆕⚽✅ LIVE 0  United Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
