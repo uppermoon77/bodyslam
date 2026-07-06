@@ -1,12 +1,12 @@
 name: bodyslam
 
 on:
-  # jalan otomatis tiap 10 menit (ingat: waktu GitHub = UTC)
+  # jalan otomatis tiap 12 jam (00:00 dan 12:00 UTC)
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 */12 * * *"
   # bisa dijalankan manual dari tab "Actions"
   workflow_dispatch:
-  # opsional: jalan setiap ada perubahan pada script
+  # jalan juga kalau ada perubahan pada script-nya sendiri
   push:
     paths:
       - "update_github_file.py"
@@ -33,7 +33,6 @@ jobs:
 
       - name: Run updater
         env:
-          # pakai token bawaan Actions, disalurkan ke variabel yang skrip kamu baca
           GITHUB_PAT: ${{ github.token }}
         run: |
           python update_github_file.py
