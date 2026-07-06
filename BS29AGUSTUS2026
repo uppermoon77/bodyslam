@@ -4229,7 +4229,7 @@ NEW 4/5/2025
 UPDATE 12/9/2025
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="KIDS",RTV1️⃣
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/rzdTiDx.jpeg" group-title="ANAK",RTV1️⃣
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #https://raw.githubusercontent.com/hnnyo/nsed/refs/heads/main/rtv.m3u8
@@ -6475,7 +6475,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title=""PENGETAHUAN",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.id" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/Apt76JU.jpeg" group-title="PENGETAHUAN",CRIME INVESTIGATION
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
 
@@ -8419,7 +8419,7 @@ NEW CATEGORY - RUGBY -AMERICAN FOOTBALL
 #KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 #https://mega.z5cable.com/bpk-tv/nfl_hd/default/index.mpd
 
-#EXTINF:0 group-logo="https://i.imgur.com/bbRoPk2.png",OLAHRAGA | AMERICAN FOOTBALL tvg-rec="0",🆕NFL Network CA
+#EXTINF:0 group-logo="https://i.imgur.com/bbRoPk2.png",OLAHRAGA | AMERICAN FOOTBALL",🆕NFL Network CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6424/index.m3u8
 
 
