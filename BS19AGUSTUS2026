@@ -3779,27 +3779,12 @@ http://202.169.224.202:8800/udp/239.9.1.25:1234
 http://202.169.224.202:8800/udp/239.4.4.2:1234
 
 ++++
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL", RCTI
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg",RCTI 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-https://allcutv.rctiplus.id/rcti2023.m3u8
-
-
-
-
+#EXTINF:-1 group-title="RCTIPLUS" tvg-name="" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",RCTI (+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 ===
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="NASIONAL",M*JI
