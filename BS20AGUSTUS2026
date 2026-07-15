@@ -4356,7 +4356,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 
 ======
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK
+#EXTINF:-1 group-title="ANAK" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK (US)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KdFidK.jpeg"" group-title="ANAK",CARTOON NETWORK (Dual Audio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
