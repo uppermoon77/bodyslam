@@ -7701,18 +7701,474 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&ext
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 TNT SPORT 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 TNT SPORT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905812&extension=ts
 
-#EXTINF:-1 tvg-logo=https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 TNT SPORT 4 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vqowr7.png" group-title="OLAHRAGA POPULER 2",🆕 TNT SPORT 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905809&extension=ts
 
 
 ===
+#EXTINF:-1 group-logo="https://i.imgur.com/9oxqKOE.jpeg",OLAHRAGA POPULER 3
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CT SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",EUROSPORT 1 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",EUROSPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NOVA SPORT 1 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NOVA SPORT 2 🇸🇰
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT 1 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",JOJ SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",JOJ SPORT 2 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",RTVS SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",AUTO MOTOR AND SPORT 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",GOLF CHANNEL 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",FIGHT BOX 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",FAST AND FUNBOX 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+
+#======================================================== ARENA SPORT ====================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 1 HD
+http://178.253.194.79:10006
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 2 HD
+http://178.253.194.79:10007
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 3 HD
+http://178.253.194.79:10008
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 4 HD
+http://178.253.194.79:10009
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 5 HD
+http://178.253.194.79:10010
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 6 HD
+http://178.253.194.79:10011
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 7 HD
+http://178.253.194.79:10012
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 8 HD
+http://178.253.194.79:10013
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 1 PREMIUN HD
+http://178.253.194.79:10001
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 2 PREMIUN HD
+http://178.253.194.79:10004
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 3 PREMIUN HD
+http://178.253.194.79:10005
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 4 PREMIUN HD
+http://178.253.194.79:10016
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA SPORT 5 PREMIUN HD
+http://178.253.194.79:10017
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA TENNIS HD
+http://178.253.194.79:10019
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ARENA ADRENALIN HD
+http://178.253.194.79:10018
+
+#========================================================  ====================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTV 1
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTV 2
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTV 3
+http://177.52.24.163/SPORTV-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN 1
+http://177.52.24.163/ESPN-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN 2
+http://177.52.24.163/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN 3
+http://177.52.24.163/ESPN-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN 4
+http://177.52.24.163/ESPN-4-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN 5
+http://177.52.24.163/ESPN-5-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 1
+http://177.52.24.163/PREMIERE-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 2
+http://177.52.24.163/PREMIERE-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 3
+http://177.52.24.163/PREMIERE-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 4
+http://177.52.24.163/PREMIERE-4-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 5
+http://177.52.24.163/PREMIERE-5-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 6
+http://177.52.24.163/PREMIERE-6-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 7
+http://177.52.24.163/PREMIERE-7-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIERE 8
+http://177.52.24.163/PREMIERE-8-HD/index.m3u8
+
+#========================================================  ====================================================================
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTTV +
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV1
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV 1
+http://zntx.dyndns.org:8085/hls/stv1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV2
+http://zntx.dyndns.org:8085/hls/stv2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TV 2
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV3
+http://zntx.dyndns.org:8085/hls/stv3.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV4
+http://zntx.dyndns.org:8085/hls/stv4.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV5
+http://znty.dyndns.org:5010/hls/stv5.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV5
+http://zntx.dyndns.org:8085/hls/stv5.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV6
+http://zntx.dyndns.org:8085/hls/stv6.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORT TV7
+http://zntx.dyndns.org:8085/hls/stv7.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 1
+http://zntx.dyndns.org:8085/hls/eleven1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 2
+http://zntx.dyndns.org:8085/hls/eleven2.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 3
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 4
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",DAZN 5
+http://zntx.dyndns.org:8085/hls/eleven5.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",BENFICA TV
+http://znty.dyndns.org:5010/hls/btv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",BENFICA TV
+http://zntx.dyndns.org:8085/hls/btv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",EUROSPORT1
+http://znty.dyndns.org:5010/hls/eurosport.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",A BOLA TV
+http://znty.dyndns.org:5010/hls/bola.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTING TV
+http://znty.dyndns.org:5010/hls/sporting.m3u8
+
+#======================================================== ASTRO SPORT ====================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO CRICKET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1036490&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO Premier League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MY| ASTRO Sports Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIER FOOTBALL 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIER SPORT 🇵🇭 (CVG)
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PREMIER SPORT 2 🇵🇭 (CVG)
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#======================================================== TNT SPORT ====================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",UK-NOWTV| TNT SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",UK-NOWTV| TNT SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905815&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",UK-NOWTV| TNT SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905812&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",UK-NOWTV| TNT SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905809&extension=ts
+
+#======================================================== TSN SPORT ====================================================================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CA| TSN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20476&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CA| TSN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20475&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CA| TSN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20474&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CA| TSN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20472&extension=ts
+
+#======================================================== ARABIC ====================================================================
+
+#EXTINF:-1 tvg-id="2023 Alkass 1.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 2.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 3.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 3
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 4.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 4
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 5.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 6
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass 7.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL KASS 7
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass SHOOF.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL SHOOF
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8
+
+#EXTINF:-1 tvg-id="2023 Alkass SHOOF 2.qa" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3", AL SHOOF 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",BAHRAIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",BAHRAIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Jordan Sport
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+http://93.184.10.248/JordanSport/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Jordan Sport 2 [Geo-blocked]
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://jrtv-live.ercdn.net/learning2/learning2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",KTV Sport 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",KTV Sport 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Oman Sports TV
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Sharjah Sports [Geo-blocked]
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#========================================================  ====================================================================
+
+#EXTINF:-1 tvg-id="worldfishingnetwork.us" tvg-name="WORLD FISHING NETWORK" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",WORLD FISHING NETWORK
+http://bgdc.live:25461/joak18@yahoo.com/5643956/4615
+#EXTINF:-1 tvg-id="worldpokertour.us" tvg-name="WORLD TOUR POKER" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",WORLD TOUR POKER
+http://bgdc.live:25461/joak18@yahoo.com/5643956/7659
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS SPORTS" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",CBS SPORTS
+http://bgdc.live:25461/joak18@yahoo.com/5643956/8459
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="Marquee Sports Network" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Marquee Sports Network
+http://bgdc.live:25461/joak18@yahoo.com/5643956/8820
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="NESN" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NESN
+http://bgdc.live:25461/joak18@yahoo.com/5643956/8821
+#EXTINF:-1 tvg-id="sportsnetpittsburgh.us" tvg-name="SPORTSNET PITTSBURGH" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTSNET PITTSBURGH
+http://bgdc.live:25461/joak18@yahoo.com/5643956/8825
+#EXTINF:-1 tvg-id="stadium.us" tvg-name="STADIUM STREAM" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",STADIUM STREAM
+http://bgdc.live:25461/joak18@yahoo.com/5643956/8826
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="YES NETWORK" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",YES NETWORK
+http://bgdc.live:25461/joak18@yahoo.com/5643956/15079
+#EXTINF:-1 tvg-id="msg.us" tvg-name="MSG Sports Zone" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MSG Sports Zone
+http://bgdc.live:25461/joak18@yahoo.com/5643956/15081
+#EXTINF:-1 tvg-id="msgsnplus.us" tvg-name="MSG Plus" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MSG Plus
+http://bgdc.live:25461/joak18@yahoo.com/5643956/15082
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",Tennis Channel
+http://bgdc.live:25461/joak18@yahoo.com/5643956/24716
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC GOLF CHANNEL" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NBC GOLF CHANNEL
+http://bgdc.live:25461/joak18@yahoo.com/5643956/37730
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN2
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38227
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="ESPNU" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPNU
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38228
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPNEWS" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPNEWS
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38229
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="ESPN ACCN" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN ACCN
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38233
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="ESPN BIG TEN " tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN BIG TEN 
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38234
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TSN 1
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38236
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="TSN 2" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TSN 2
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38237
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="TSN 3" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TSN 3
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38238
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="TSN 4" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TSN 4
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38239
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="TSN 5" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",TSN 5
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38240
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL NETWORK" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NFL NETWORK
+http://bgdc.live:25461/joak18@yahoo.com/5643956/40691
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="SportsNet Pittsburgh" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SportsNet Pittsburgh
+http://bgdc.live:25461/joak18@yahoo.com/5643956/62829
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",OUTDOOR CHANNEL
+http://bgdc.live:25461/joak18@yahoo.com/5643956/697
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="SPORTSMAN " tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTSMAN 
+http://bgdc.live:25461/joak18@yahoo.com/5643956/4608
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="PURSUIT " tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",PURSUIT 
+http://bgdc.live:25461/joak18@yahoo.com/5643956/4612
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="MSG Sports Zone" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",MSG Sports Zone
+http://bgdc.live:25461/joak18@yahoo.com/5643956/15078
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38226
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="ESPN SEC NETWORK" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",ESPN SEC NETWORK
+http://bgdc.live:25461/joak18@yahoo.com/5643956/38232
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET LA" tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",SPORTSNET LA
+http://bgdc.live:25461/joak18@yahoo.com/5643956/58910
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="NBCS Philadelphia " tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",NBCS Philadelphia 
+http://bgdc.live:25461/joak18@yahoo.com/5643956/31411
+
+
+
 
 ====
 ====SKY SPORT
