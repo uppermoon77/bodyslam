@@ -4481,6 +4481,11 @@ https://i.imgur.com/K3FXClz.jpeg"
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 http://212.102.60.231/NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA 1 (267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Nba1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3FXClz.jpeg" group-title="OLAHRAGA LOKAL",NBA 2 (267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Nba2.m3u8
+
 
 ==EDT
 wwe cover https://i.imgur.com/dWS3vWU.jpeg
@@ -6164,6 +6169,11 @@ OLAHRAGA | MOTOR GP
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",🆕 MOTOGP 1 (Sport) (267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/MotoGP1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",🆕 MOTOGP 2 (Sky SPort Moto Gp)(267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/MotoGP2.m3u8
+
 
 #EXTINF:-1 tvg-id="beINSports1.qa@Indonesia" group-title="OLAHRAGA | MOTOR GP" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg",🆕beIN Sports 1 (167)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -7456,6 +7466,11 @@ UFC
 NEW 4/5/2025
 ==================
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC", UFC 1
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Ufc1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC", UFC 2
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Ufc2.m3u8
+
 #EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-name="SONY SPORTS TEN 1 HD" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕SONY SPORTS TEN 1 HD
 https://sm-monirul.top/toffee/play/sony_sports_1_hd.m3u8
 #EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-name="SONY SPORTS TEN 2 HD" tvg-logo="https://i.imgur.com/ZJvXooj.jpeg" group-title="OLAHRAGA | UFC",🆕SONY SPORTS TEN 2 HD
@@ -7509,6 +7524,11 @@ GOLF
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/sInIG51.jpeg",OLAHRAGA | GOLF
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕GOLF 1 (Sky SPort Golf German)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Golf1.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕 GOLF 2 (Sk Golf English)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Golf2.m3u8
+
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-name="NBC GOLF CHANNEL" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",🆕NBC GOLF CHANNEL(257)
 http://bgdc.live:25461/joak18@yahoo.com/5643956/37730
 
@@ -7553,15 +7573,17 @@ OLAHRAGA | VOLLYBALL
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/dSA83Hx.jpeg",OLAHRAGA | VOLLYBALL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",VNL : Belgia vs Italy
-https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.pro2cdnlive.com/live/channel82.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕VNL 3 (267)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕SEA V-LEAGUE 2 (267)
+https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🏐 LIVE 0 VOLLYBALL
 http://opplextv.cyou:8080/nasir6160/nasir/350997
-
+ BADM
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTINF:-1 tvg-id="Tvri.Sport.id" tvg-name="tvri sport" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",TVRI SPORT
@@ -7588,34 +7610,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕SpoTV 2 (167)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-
-===============
-
-
-================================
-
----------NEW 3/6/2025
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕 Soccer Channel (167)
-http://103.137.83.62:9090/play/35/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕Sportstars 1 HD (167)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",🆕Sportstars 2 HD (167)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
@@ -7638,6 +7632,18 @@ SPOTV  | BADMINTON
 ___________________
 
 ==========================
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕VICTOR China Open 2026 CCTV 5 (267)
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕BADMINTON (267)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Bulutangkis1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕BADMINTON VICTOR China Open 2026 COURT 1 (267)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=e031d76b726a6bd9a3caddd80d47e20e&wsABSTime=1784814096
+=====================================BOLA========================
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
@@ -8331,6 +8337,12 @@ END |OLAHRAGA POPULER
 FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕 FORMULA 1 1 (Sky Sport German)
+)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Formula1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕 FORMULA 1 2 (Sky Sport German)
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Formula2.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -9068,6 +9080,14 @@ COVER BARU 2026 https://i.imgur.com/nISWTAB.jpeg
 
 ====================== FINISH
 
+🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
+TES BARU
+🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",🆕Sky Sport PL
+https://raw.githubusercontent.com/B-inal-123/olahraga-s/inal-22/Liga%20Inggris%201.m3u8
+
+🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
+TES BARU
 🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️🤷‍♀️
 
 -->EVENT REAL YG DIATAS
