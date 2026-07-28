@@ -3781,9 +3781,15 @@ http://202.169.224.202:8800/udp/239.4.4.2:1234
 #https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
 http://013tv.com:8080/F33848/cbd9779b/162138
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",PIALA PRESIDEN (NR)
-#https://www.dropbox.com/scl/fi/4mrd5w5x0nsu3cov6jwjj/live.mp4?rlkey=lwjd7wdcs85sg4ysvdr24tlh4&st=qqcwpjpn&dl=1
-http://013tv.com:8080/F33848/cbd9779b/162138
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",PIALA PRESIDEN (NR) 15:30 WIB Tampines Rovers vs Arema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",PIALA PRESIDEN (NR) 19:30 WIB DPMM FC vs Persib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -7638,6 +7644,16 @@ SPOTV  | BADMINTON
 ___________________
 
 ==========================
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕COURT 1 Yonex Taipei Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel61.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕COURT 2 Yonex Taipei Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel62.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕COURT 3 Yonex Taipei Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel63.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕COURT 4 Yonex Taipei Open 2026
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.streambylivepulse.com/live/channel64.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/P47cFSh" group-title="OLAHRAGA | BADMINTON",🆕VICTOR China Open 2026 CCTV 5 (267)
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
