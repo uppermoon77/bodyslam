@@ -10126,6 +10126,27 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Chelsea vs Western Sydney Wanderers (Golazo Network (720p) (eng5) (English) (Sports) - 720P)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+
+#EXTINF:-1 tvg-id=""  group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs Leganés Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9e892f4ac7:71a786d7774d6df4487494145db485a4
+#EXTINF:-1 tvg-id=""  group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs Leganés Real Madrid TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951381/hls/playlist.m3u8?ads.xumo_channelId=99951381&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=CineverseRealMadrid&ads.csid=xumo_[PLATFORM]_CineverseRealMadrid_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4183&ads.xumo_contentName=CineverseRealMadrid&ads.xumo_providerId=4183&ads.xumo_providerName=CineverseRealMadrid&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951381&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+#EXTGRP:Испания | Spain
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs LeganésReal Madrid TV eng ES
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/15248/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs LeganésReal Madrid TV English [Geo-blocked] (eng10) (English) (Sports)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTGRP:Испания | Spain
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs LeganésReal Madrid TV ES
+http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31847/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Real Madrid vs LeganésREAL MADRID TV 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+
 #EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",MUTV ✅
 https://get.perfecttv.net/mutv.mpd
 
