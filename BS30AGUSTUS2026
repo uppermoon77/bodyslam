@@ -3786,10 +3786,26 @@ http://013tv.com:8080/F33848/cbd9779b/162138
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Piala Presiden" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL" event-name="Arema FC vs DPMM FC" event-time="2026-07-31T15:30" event-duration="2",PIALA PRESIDEN 15:30 WIB Arema vs DPMM FC (317)
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://hd-stream.lxscore.com/live/default-1838516.m3u8
+
+#EXTINF:-1 tvg-name="Piala Presiden" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://live2.streambylivepulse.com/live/channel19.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg",PIALA PRESIDEN  19:30 WIB Persib vs Tampines Rovers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.livepingscorex.com/
 https://live2.streambylivepulse.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-name="Piala Presiden" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL" event-name="PERSIB vs Tampines Rovers FC" event-time="2026-07-31T19:30" event-duration="2",PIALA PRESIDEN  19:30 WIB Persib vs Tampines Rovers (317)
+#EXTVLCOPT:http-referrer=https://lxscore.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+https://live2.streambylivepulse.com/live/channel19.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -10204,6 +10220,18 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (317)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS(+) (317)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
+
 
 #EXTINF:-1 group-title="BOLA | ASEAN CHAMPIONSHIP 2026" tvg-name="GTV" tvg-logo="https://i.imgur.com/X6EEubm.jpeg",GTV(R+) 2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
