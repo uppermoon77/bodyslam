@@ -3828,11 +3828,16 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/ac934bd649dc47f699f793634de01635/in
 https://ayo.maling.pl/Vision/index.mpd?id=201
 
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",RCTI (+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C0a9fdx.jpeg" group-title="NASIONAL",RCTI (+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="NASIONAL",MNC(+) (317)2️⃣
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=mnc
 
 ===
 
@@ -3883,11 +3888,10 @@ INEWS COVER https://i.imgur.com/NTYY97h.jpeg
 #EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/NTYY97h.jpeg",INEWS 1️⃣
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",INEWS(+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NTYY97h.jpeg" group-title="NASIONAL",INEWS (R+)2️⃣
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
 ----------
 
 --------------EDIT INI-----------
@@ -3912,10 +3916,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-name="GTV" tvg-logo="https://i.imgur.com/oZl4oNH.jpeg",GTV(R+) 2️⃣
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZl4oNH.jpeg" group-title="NASIONAL",GTV(+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
+
 
 
 =====
@@ -4001,10 +4006,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/ind
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNC(+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-log="https://i.imgur.com/JXLOOxS.jpeg" group-title="NASIONAL",MNCTV (R+) 2️⃣
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=mnc
 ===
 
 
@@ -8816,14 +8821,12 @@ ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL IN ONE BAR-ALL I
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Sportstars.2.id" tvg-name="Sportstars 2" tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA| VOLLYBALL;BOLA | FRIENDLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA | TENNIS;BOLA | ASEAN CHAMPIONSHIP 2026",🆕SPORTSTARS 2 (🏆AIOS)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCVrKtK.png" group-title="BOLA | BUNDESLIGA;BOLA | UEFA NATIONS LEAGUE;OLAHRAGA| VOLLYBALL;BOLA | FRIENDLY MATCH;OLAHRAGA LOKAL;OLAHRAGA | BILLIARD;OLAHRAGA | TENNIS;BOLA | ASEAN CHAMPIONSHIP 2026",🆕SPORTSTARS 2 (🏆AIOS)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -10166,6 +10169,79 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",BARCA TV (Birmingham City vs Barcelona)
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u
+
+#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",31/07 11:00 PM | Juventus vs Nice (IT| SKY SPORT CALCIO UHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691261&extension=ts&play_token=39hgHIbaCG
+#EXTINF:-1 tvg-id="691260" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",31/07 11:00 PM | Juventus vs Nice (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691260&extension=ts&play_token=IUU58pIeIm
+#EXTINF:-1 tvg-id="691523" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",31/07 11:00 PM | Juventus vs Nice (IT| SKY SPORT CALCIO HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=691523&extension=ts&play_token=BYx7GZV49o
+#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",31/07 11:00 PM | Juventus vs Nice (IT| SKY SPORT CALCIO 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692417&extension=ts&play_token=bDUkOh6bEz
+#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",31/07 11:00 PM | Juventus vs Nice (IT| SKY SPORT CALCIO HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692416&extension=ts&play_token=fWtOUXbg0M
+
+===
+#EXTINF:-1 tvg-id="1283313" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",01/08 01:45 AM | Birmingham City vs Barcelona (NL| ZIGGO SPORT 2 4K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1283313&extension=ts&play_token=NDs9nBaFty
+#EXTINF:-1 tvg-id="1761574" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",01/08 01:45 AM | Birmingham City vs Barcelona (NL| ZIGGO SPORT 2 UHD 8K)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1761574&extension=ts&play_token=7CV7cHzte0
+#EXTINF:-1 tvg-id="1282763" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",01/08 01:45 AM | Birmingham City vs Barcelona (NL| ZIGGO SPORT 2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282763&extension=ts&play_token=Bn43BL7SyJ
+#EXTINF:-1 tvg-id="1282748" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",01/08 01:45 AM | Birmingham City vs Barcelona (NL| ZIGGO SPORT 2 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1282748&extension=ts&play_token=tim2DqEz2H
+#EXTINF:-1 tvg-id="1921309" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ZIGGOSPORT.png",01/08 01:45 AM | Birmingham City vs Barcelona (NL| ZIGGO SPORT 2 ᴿᴬᵂ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 4D309E72A6F91909D49A7B9EC685C359
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1921309&extension=ts&play_token=OmuMFxNU1k
+
+#EXTINF:-1 tvg-id="2633" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",01/08 01:45 AM | Birmingham City vs Barcelona (SI: Sport Klub 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 50C284DA2BE9A78F1DBFA93B9F4FFFD9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=2633&extension=ts&play_token=Kw3alX50t7
+#EXTINF:-1 tvg-id="1461058" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",01/08 01:45 AM | Birmingham City vs Barcelona (SI: SPORT KLUB 1 ⱽᴵᴾ ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 374AC54C59C24E09FC7BC00DB1311442
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=1461058&extension=ts&play_token=Fy4Hs04DOk
+#EXTINF:-1 tvg-id="2633" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4015.jpg?18182",01/08 01:45 AM | Birmingham City vs Barcelona (SI: Sport Klub 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 374AC54C59C24E09FC7BC00DB1311442
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=2633&extension=ts&play_token=t54utjPnQ3
+===
+
 #EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",Chelsea vs Western Sydney Wanderers (Golazo Network (720p) (eng5) (English) (Sports) - 720P)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
@@ -10216,21 +10292,27 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #EXTINF:-1 group-logo="https://i.imgur.com/tRY91LJ.jpeg",BOLA | ASEAN CHAMPIONSHIP 2026
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",RCTI (+) (317)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",RCTI (+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (317)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",GTV(+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=gtv
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS(+) (317)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",INEWS(+) (317)2️⃣
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 http://beetv.my.id/stream/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRY91LJ.jpeg" group-title="BOLA | ASEAN CHAMPIONSHIP 2026",MNC(+) (317)2️⃣
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=http://www.rctiplus.com/
+http://beetv.my.id/stream/rctiplus.m3u8?ch=mnc
+
 
 
 #EXTINF:-1 group-title="BOLA | ASEAN CHAMPIONSHIP 2026" tvg-name="GTV" tvg-logo="https://i.imgur.com/X6EEubm.jpeg",GTV(R+) 2️⃣
