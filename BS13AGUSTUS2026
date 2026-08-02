@@ -10169,6 +10169,37 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EEB2D8F75D6A0DC0486171E9BC7A1553
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=910647&extension=ts&play_token=pM9AdKTMoJ
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EEB2D8F75D6A0DC0486171E9BC7A1553
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45268&extension=ts&play_token=7sinHW4t5P
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E28CB3AD02C54657B666D79A1F040E0F
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=910647&extension=ts&play_token=GnuumX6jE2
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer E28CB3AD02C54657B666D79A1F040E0F
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45268&extension=ts&play_token=cu6aonZX49
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 40C942B909938E0A7E455247EC766182
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=910647&extension=ts&play_token=6WGURGnExN
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",03/08 03:00 AM | Leeds United vs Liverpool (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 40C942B909938E0A7E455247EC766182
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=45268&extension=ts&play_token=JIUzb0xEFv
+
 #EXTINF:-1 tvg-id="" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/uxYdlwY.png",🔥Chelsea vs Tottenham Hotspur (Golazo Network (720p) (eng5) (English) (Sports) - 720P)
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
