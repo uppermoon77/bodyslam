@@ -10207,12 +10207,248 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================5/8/2026
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",🔥Juventus vs Inter Milan ASTRO Grandstand
+================
+#EXTM3U
+#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=993336&extension=ts&play_token=XwO3rH2UBP
+#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591602&extension=ts&play_token=DkLoGpJwgw
+#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591601&extension=ts&play_token=2eBHCJo2w5
+#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=993336&extension=ts&play_token=EVbZ1bLVjb
+#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591602&extension=ts&play_token=QuzFkWo4es
+#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (AR| ABU DHABI SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591601&extension=ts&play_token=WTLCFRyZZB
+#EXTINF:-1 tvg-id="1917744" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/PPV/LALIGA.png",09/08 06:00 PM | Manchester City vs Atlético Madrid (ES| M.LALIGA DE CAMPEONES HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917744&extension=ts&play_token=fqP6qkPtrg
+
+#EXTINF:-1 tvg-id="1526287" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT12.png",09/08 07:00 PM | Johor Darul Ta'zim vs Chelsea (RS| ARENA SPORT 1x2 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1526287&extension=ts&play_token=ZgA71nm6Pe
+#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=993336&extension=ts&play_token=XwO3rH2UBP
+#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591602&extension=ts&play_token=DkLoGpJwgw
+#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591601&extension=ts&play_token=2eBHCJo2w5
+#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=993336&extension=ts&play_token=EVbZ1bLVjb
+#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591602&extension=ts&play_token=QuzFkWo4es
+#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (AR| ABU DHABI SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591601&extension=ts&play_token=WTLCFRyZZB
+#EXTINF:-1 tvg-id="1917238" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/logos/1917238.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (BG| MAX SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917238&extension=ts&play_token=xSbKTqBtUW
+#EXTINF:-1 tvg-id="337610" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9881.jpg?72350",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL VIP: POLSAT SPORT 3 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=337610&extension=ts&play_token=5dIPqZPVOn
+#EXTINF:-1 tvg-id="1991961" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14557.png?27140",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL: POLSAT SPORT 3 ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991961&extension=ts&play_token=kNq3RC3z4b
+#EXTINF:-1 tvg-id="1991960" group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14557.png?27140",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL: POLSAT SPORT 3 ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1991960&extension=ts&play_token=TfnTnnoA4k
+#EXTINF:-1 tvg-id="1530208" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/1530208.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL-VIP| POLSAT SPORT 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1530208&extension=ts&play_token=h8NzRl1x71
+#EXTINF:-1 tvg-id="880468" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880468&extension=ts&play_token=EpsNL58CQl
+#EXTINF:-1 tvg-id="880328" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=880328&extension=ts&play_token=BBrlA4Wi03
+#EXTINF:-1 tvg-id="1530208" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/1530208.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL-VIP| POLSAT SPORT 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=1530208&extension=ts&play_token=iW1DNldAXF
+#EXTINF:-1 tvg-id="880468" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880468&extension=ts&play_token=DBFR8O23Jk
+#EXTINF:-1 tvg-id="880328" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=880328&extension=ts&play_token=omxINzprhO
+#EXTINF:-1 tvg-id="1917612" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917612.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917612&extension=ts&play_token=eMKxBvmc8y
+#EXTINF:-1 tvg-id="1530208" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/1530208.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL-VIP| POLSAT SPORT 3 RAW)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1530208&extension=ts&play_token=Aw3uwtNCVd
+#EXTINF:-1 tvg-id="880468" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880468&extension=ts&play_token=7hZaa5TCwZ
+#EXTINF:-1 tvg-id="880328" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png",09/08 08:00 PM | Arsenal vs Borussia Dortmund (PL| POLSAT SPORT 3 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=880328&extension=ts&play_token=mjszYyjxAc
+#EXTINF:-1 tvg-id="340492" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6422.jpg?24831",09/08 08:00 PM | Arsenal vs Borussia Dortmund (DE: SKY SPORT NEWS HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=340492&extension=ts&play_token=laGSQCmGl9
+
+#EXTINF:-1 tvg-id="588056" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",09/08 08:30 PM | Liverpool vs Monaco (UK: LFC TV ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588056&extension=ts&play_token=4u1uyFaq3a
+#EXTINF:-1 tvg-id="588057" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",09/08 08:30 PM | Liverpool vs Monaco (UK: LFC TV ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588057&extension=ts&play_token=ehQiMNdmFi
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=910647&extension=ts&play_token=ZWIY91RLno
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45268&extension=ts&play_token=Gu5lDCgXMJ
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=910647&extension=ts&play_token=8BdV8emkbf
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45268&extension=ts&play_token=rU0t5uYrWz
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=910647&extension=ts&play_token=HzyQQmmUKu
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",09/08 08:30 PM | Liverpool vs Monaco (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=45268&extension=ts&play_token=sTPvtkUIO2
+#EXTINF:-1 tvg-id="429939" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093",09/08 08:30 PM | Liverpool vs Monaco (US: CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=429939&extension=ts&play_token=E0euQJgdHX
+#EXTINF:-1 tvg-id="429938" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093",09/08 08:30 PM | Liverpool vs Monaco (US: CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=429938&extension=ts&play_token=beefUD99uA
+#EXTINF:-1 tvg-id="429937" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13622.png?ver=58093",09/08 08:30 PM | Liverpool vs Monaco (US: CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=429937&extension=ts&play_token=hVzHP3J7g7
+#EXTINF:-1 tvg-id="325023" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8282.jpg?46491",09/08 08:30 PM | Liverpool vs Monaco (US: CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=325023&extension=ts&play_token=YwvJOwJShZ
+#EXTINF:-1 tvg-id="45601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/USA/45601.png",09/08 08:30 PM | Liverpool vs Monaco (US| CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45601&extension=ts&play_token=tPgtZ1ZTMI
+#EXTINF:-1 tvg-id="45601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/USA/45601.png",09/08 08:30 PM | Liverpool vs Monaco (US| CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B232B12A54B64E59EBB07FC7D5A43CE0
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=45601&extension=ts&play_token=JQo44ziChy
+#EXTINF:-1 tvg-id="45601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/USA/45601.png",09/08 08:30 PM | Liverpool vs Monaco (US| CBS SPORTS NETWORK HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 1B88174B4A042FD78559F0058182FC4A
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=45601&extension=ts&play_token=rm3YhK9g40
+#EXTINF:-1 tvg-id="1290299" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?49130",09/08 08:30 PM | Liverpool vs Monaco (VIP: LFC TV ᴴᴰ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1290299&extension=ts&play_token=D3cGkS1w3Z
+#EXTINF:-1 tvg-id="1290225" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?49130",09/08 08:30 PM | Liverpool vs Monaco (VIP: LFC TV ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1290225&extension=ts&play_token=7iZiaR6dvb
+================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="BOLA | FRIENDLY MATCH",🔥Juventus vs Inter Milan ASTRO Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571247&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="OLAHRAGA POPULER 3",🔥Juventus vs Inter Milan ASTRO Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9oxqKOE.jpeg" group-title="BOLA | FRIENDLY MATCH",🔥Juventus vs Inter Milan ASTRO Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571246&extension=ts
