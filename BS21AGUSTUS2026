@@ -3698,10 +3698,11 @@ http://khano.nng.cloudns.us/live/m3u8/id/829dbdfe0b57013.m3u8
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",JOWO TV
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTINF:-1 tvg-id="auto.jowo" tvg-logo="https://i.imgur.com/7ay0SsG.jpeg" group-title="DAERAH",🆕JOWO TV (🚀8826)
+https://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+
 
 
 
@@ -6465,6 +6466,10 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 
 ===JOWO TV COVER https://i.imgur.com/BEdX7dr.png
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTINF:-1 tvg-id="auto.jowo" tvg-logo="https://i.imgur.com/BEdX7dr.png" group-title="GAYA HIDUP",🆕JOWO TV (🚀8826)
+https://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -6512,9 +6517,11 @@ ONE GAYA HIDUP "https://i.imgur.com/5dmMedN.png
 =====
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
-#EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",Entertainment 1 ON (R)
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#EXTINF:-1 tvg-id="Ent.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/cJdmpvm.jpeg" group-title="GAYA HIDUP",🆕Entertainment (🚀8826)
+https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 ============20/1/2025 GAYA HIDUP============ FAHSION TV LOGO https://i.imgur.com/vgxWXsf.jpeg
 
