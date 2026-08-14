@@ -3571,65 +3571,65 @@ DAERAH
 #EXTINF:-1 group-logo="https://i.imgur.com/7ay0SsG.jpeg",DAERAH
 
 ===TVRI
-#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF101R.png" group-title="DAERAH",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="DAERAH",TVRI Sumatera Selatan❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF12JS.png" group-title="DAERAH",TVRI Sumatera Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="DAERAH",TVRI Sumatera Barat❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1357.png" group-title="DAERAH",TVRI Sumatera Barat
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="DAERAH",TVRI Sulawesi Selatan❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF16hu.png" group-title="DAERAH",TVRI Sulawesi Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="DAERAH",TVRI Jakarta❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF17zg.png" group-title="DAERAH",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="DAERAH",TVRI Papua❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1822.png" group-title="DAERAH",TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="DAERAH",TVRI Gorontalo❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Ae1.png" group-title="DAERAH",TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="DAERAH",TVRI Aceh❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1BWb.png" group-title="DAERAH",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="DAERAH",TVRI Yogyakarta❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="DAERAH",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="DAERAH",TVRI Sulawesi Utara❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Fe9.png" group-title="DAERAH",TVRI Sulawesi Utara
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="DAERAH",TVRI Jawa Tengah❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1GdN.png" group-title="DAERAH",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="DAERAH",TVRI Sulawesi Tenggara❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1Kbe.png" group-title="DAERAH",TVRI Sulawesi Tenggara
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="DAERAH",TVRI Kalimantan Barat❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1M7I.png" group-title="DAERAH",TVRI Kalimantan Barat
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="DAERAH",TVRI Sulawesi Barat❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1PLb.png" group-title="DAERAH",TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="DAERAH",TVRI Jambi❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1RmF.png" group-title="DAERAH",TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="DAERAH",TVRI Riau❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1S7S.png" group-title="DAERAH",TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="DAERAH",TVRI Bengkulu❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1TdB.png" group-title="DAERAH",TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="DAERAH",TVRI Kalimantan Selatan❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1WmX.png" group-title="DAERAH",TVRI Kalimantan Selatan
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="DAERAH",TVRI Jawa Barat❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1YXa.png" group-title="DAERAH",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="DAERAH",TVRI NTB❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1e14.png" group-title="DAERAH",TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="DAERAH",TVRI NTT❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1gp9.png" group-title="DAERAH",TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="DAERAH",TVRI Kalimantan Tengah❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1hIn.png" group-title="DAERAH",TVRI Kalimantan Tengah
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="DAERAH",TVRI Kalimantan Timur❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1jXs.png" group-title="DAERAH",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="DAERAH",TVRI Lampung❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1krl.png" group-title="DAERAH",TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="DAERAH",TVRI Sumatera Utara❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1oqx.png" group-title="DAERAH",TVRI Sumatera Utara
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="DAERAH",TVRI Sulawesi Tengah❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1t2V.png" group-title="DAERAH",TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="DAERAH",TVRI Maluku❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1wLG.png" group-title="DAERAH",TVRI Maluku
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="DAERAH",TVRI Bali❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1x0Q.png" group-title="DAERAH",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="DAERAH",TVRI Bangka Belitung❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/JmF1zgV.png" group-title="DAERAH",TVRI Bangka Belitung
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="DAERAH",TVRI Papua Barat❌(UNDER MAINTENANCE)
+#EXTINF:-1 tvg-logo="https://iili.io/d9HAivV.png" group-title="DAERAH",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 
 ===>DAERAH START
@@ -5492,19 +5492,8 @@ KOREA
 
 
 ++
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://i.imgur.com/vh4i0gM.jpeg" group-title="DUNIA | KOREA",ONE (❌ UNDER MAINTENANCE)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-http://203.77.246.58:4500/udp/239.1.5.10:5000
-http://203.77.246.58:4500/udp/239.1.2.236:5000
-http://103.66.62.83:8000/play/a03z/index.m3u8
-#https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
+ONE COVER https://i.imgur.com/vh4i0gM.jpeg
 
 ++
 
@@ -6765,10 +6754,6 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #EXTINF:-1 tvg-chno="100" tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2c3zHp.jpeg" group-title="PENGETAHUAN",natgeowild HD ❌(UNDER MAINTENANCE)
-http://84.17.50.102/natgeowild/index.m3u8
-
-
 ===
 
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" group-title="PENGETAHUAN" tvg-logo="https://i.imgur.com/Ln9oHhJ.jpeg",ANIMAL PLANET (US)
@@ -7311,17 +7296,7 @@ http://cdn8.163189.xyz/163189/lhxj
 ==========
 BRUNEI
 ==========
-#EXTINF:-1 group-logo="https://i.imgur.com/UtlBqwd.png",DUNIA | BRUNEI (❌UNDER MAINTENANCE)
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtlBqwd.png"  group-title="DUNIA | BRUNEI (❌UNDER MAINTENANCE)",RTB (Brunei)
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtlBqwd.png" group-title="DUNIA | BRUNEI (❌UNDER MAINTENANCE)", GO Live (Brunei)
-#EXTVLCOPT:network-caching=1000 
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtlBqwd.png" group-title="DUNIA | BRUNEI (❌UNDER MAINTENANCE)", Aneka (Brunei)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+EXTINF:-1 group-logo="https://i.imgur.com/UtlBqwd.png",DUNIA | BRUNEI (❌UNDER MAINTENANCE)
 
 
 ==========
