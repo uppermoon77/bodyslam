@@ -10123,6 +10123,61 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ============================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕 ARSENAL VS MANCHESTER CITY (TNT SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕ARSENAL VS MANCHESTER CITY (TNT SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-id="588056" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",Liverpool vs COMO (UK: LFC TV ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588056&extension=ts&play_token=4u1uyFaq3a
+#EXTINF:-1 tvg-id="588057" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281",Liverpool vs COMO (UK: LFC TV ᴿᴬᵂ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 093373F3A0D3AF01F39916797F840DE3
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=588057&extension=ts&play_token=ehQiMNdmFi
+#EXTINF:-1 tvg-id="910647" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",Liverpool vs COMO (UK| LFC TV FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=910647&extension=ts&play_token=ZWIY91RLno
+#EXTINF:-1 tvg-id="45268" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png",Liverpool vs COMO (UK| LFC TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer EBE959BA10EAFCB07DEAB748993A16A1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45268&extension=ts&play_token=Gu5lDCgXMJ
+
+#EXTINF:-1 tvg-id="984663" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/984663.png",17/08 12:00 AM | Liverpool vs Como 1907 (DE| SKY SPORT PREMIER LEAGUE HEVC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB09E3A2460E0721046A6D5FC9B07DE
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=984663&extension=ts&play_token=EoddSKuO5F
+#EXTINF:-1 tvg-id="971711" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/971711.png",17/08 12:00 AM | Liverpool vs Como 1907 (DE| SKY SPORT PREMIER LEAGUE FHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 7DB09E3A2460E0721046A6D5FC9B07DE
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=971711&extension=ts&play_token=f8Ul871IfB
+
+#EXTINF:-1 tvg-id="1667469" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12290.png?75483",17/08 12:00 AM | Liverpool vs Como 1907 (WOW: SKY SPORT TOP EVENT ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:AD:C0:2A; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 40F472ABBF8A2F6E2F8C2810BB12E107
+http://paid32945.wd.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:AD:C0:2A&stream=1667469&extension=ts&play_token=STf0BOKVSC
+#EXTINF:-1 tvg-id="1667469" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12290.png?75483",17/08 12:00 AM | Liverpool vs Como 1907 (WOW: SKY SPORT TOP EVENT ᴴᴰ ◉)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:82:03:14; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 3C160689215252E6A17504F01D4985C9
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:82:03:14&stream=1667469&extension=ts&play_token=MEem8wNyrI
+============================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
 #EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",🆕Manchester United vs Milan (MUTV) (🚀8826) ✅
 https://get.perfecttv.net/mutv.mpd
 
