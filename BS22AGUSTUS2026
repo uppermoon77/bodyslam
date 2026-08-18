@@ -10092,10 +10092,46 @@ EXTINF:-1 group-logo="https://i.imgur.com/XcBE918.jpeg",BOLA | AFC U23 ASIAN CUP
 ========================5/8/2026
 #EXTINF:-1 group-logo="https://i.imgur.com/uxYdlwY.png",BOLA | FRIENDLY MATCH
 
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Heidenheim vs Bayern München 18/8/2026+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+#EXTINF:-1 tvg-id="411413" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/411413.png",🆕Heidenheim vs Bayern München (180826) (FC BAYERN TV HD)(🚀8826)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AAA45467B3155450D7FCA7A772461DA1
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411413&extension=ts&play_token=7bTyyfrWZy
+#EXTINF:-1 tvg-id="411413" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/411413.png",🆕Heidenheim vs Bayern München (180826)  (FC BAYERN TV HD)(🚀8826)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer B3A0BCB7C7DCE2AB3DFCB84D433C9A79
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411413&extension=ts&play_token=fUbHLuiZ8d
 
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Juventus vs Juventus II 18/8/2026+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
 
+#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692417.png",🆕Juventus vs Juventus II (180826)(SKY SPORT CALCIO 4K) (🚀8826)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692417&extension=ts&play_token=pWLuUOtYTu
+#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692416.png",🆕Juventus vs Juventus II (180826)(SKY SPORT CALCIO HD)(🚀8826)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
+http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692416&extension=ts&play_token=D6Ns56s8Uk
+#EXTINF:-1 tvg-id="1917712" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",🆕Juventus vs Juventus II (180826)( SKY SPORT CALCIO)(🚀8826)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917712&extension=ts&play_token=fn3umh17fo
+#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/691261.png",🆕Juventus vs Juventus II (180826)(SKY SPORT CALCIO UHD)(🚀8826)
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
+http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=691261&extension=ts&play_token=XwB502cCaK
 ============================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Juventus vs Juventus II+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕 ARSENAL VS MANCHESTER CITY (TNT SPORT 1 HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -10201,12 +10237,12 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 
 ============================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Manchester United vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Juventus vs Juventus II+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",🆕Manchester United vs Milan (MUTV) (🚀8826) ✅
+#EXTINF:-1 group-title="BOLA | FRIENDLY MATCH" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg",🆕Juventus vs Juventus II (MUTV) (🚀8826) ✅
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕Manchester United vs Milan (SportDigital FUSSBALL DE) (🚀8826)
+#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/uxYdlwY.png" group-title="BOLA | FRIENDLY MATCH",🆕Juventus vs Juventus II (SportDigital FUSSBALL DE) (🚀8826)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10229,43 +10265,43 @@ http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=45324&ext
 #EXTVLCOPT:http-header=Authorization: Bearer BE9B19727203E7ACB8E6F824A6109EB8
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=1458773&extension=ts&play_token=HZErVP0uAP
 
-#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692417.png",🆕Manchester United vs Milan (SKY SPORT CALCIO 4K)(🚀8826)
+#EXTINF:-1 tvg-id="692417" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692417.png",🆕Juventus vs Juventus II (SKY SPORT CALCIO 4K)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692417&extension=ts&play_token=pWLuUOtYTu
-#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692416.png",🆕Manchester United vs Milan (SKY SPORT CALCIO HD)(🚀8826)
+#EXTINF:-1 tvg-id="692416" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/692416.png",🆕Juventus vs Juventus II (SKY SPORT CALCIO HD)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer A9EF0EB82CC01CCC24B56E6F8F2D96FF
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=692416&extension=ts&play_token=D6Ns56s8Uk
-#EXTINF:-1 tvg-id="1917712" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",🆕Manchester United vs Milan ( SKY SPORT CALCIO)(🚀8826)
+#EXTINF:-1 tvg-id="1917712" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/PPV/SKYSPORTS.png",🆕Juventus vs Juventus II ( SKY SPORT CALCIO)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=1917712&extension=ts&play_token=fn3umh17fo
-#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/691261.png",🆕Manchester United vs Milan (SKY SPORT CALCIO UHD)(🚀8826)
+#EXTINF:-1 tvg-id="691261" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://picons.cmshulk.com/picons/691261.png",🆕Juventus vs Juventus II (SKY SPORT CALCIO UHD)(🚀8826)
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:7C:09:B9; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 8AC95A292DAC655584BC87713A79F841
 http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=691261&extension=ts&play_token=XwB502cCaK
 
-#EXTINF:-1 tvg-id="1842027" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",🆕Manchester United vs Milan (SPO: ON SPORT PLUS 4K)(🚀8826)
+#EXTINF:-1 tvg-id="1842027" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",🆕Juventus vs Juventus II (SPO: ON SPORT PLUS 4K)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 88E518E15A7EC79B8D639314DF1BEE48
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1842027&extension=ts&play_token=eGQWRQVdH2
-#EXTINF:-1 tvg-id="1842028" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",🆕Manchester United vs Milan (SPO: ON SPORT PLUS HD)(🚀8826)
+#EXTINF:-1 tvg-id="1842028" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14909.png?85632",🆕Juventus vs Juventus II (SPO: ON SPORT PLUS HD)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 88E518E15A7EC79B8D639314DF1BEE48
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1842028&extension=ts&play_token=hDUg3xL1l7
-#EXTINF:-1 tvg-id="4186" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",🆕Manchester United vs Milan (SPO: ON SPORT 4K)(🚀8826)
+#EXTINF:-1 tvg-id="4186" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",🆕Juventus vs Juventus II (SPO: ON SPORT 4K)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 88E518E15A7EC79B8D639314DF1BEE48
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=4186&extension=ts&play_token=OGZsGcjm4V
-#EXTINF:-1 tvg-id="819644" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",🆕Manchester United vs Milan (SPO: ON SPORT RAW)(🚀8826)
+#EXTINF:-1 tvg-id="819644" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3792.jpg?23837",🆕Juventus vs Juventus II (SPO: ON SPORT RAW)(🚀8826)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
 #EXTVLCOPT:http-header=Authorization: Bearer 88E518E15A7EC79B8D639314DF1BEE48
@@ -10298,50 +10334,6 @@ http://line.hostytv.store:80/play/live.php?mac=00:1A:79:7C:09:B9&stream=691261&e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="BOLA | FRIENDLY MATCH",🆕Internazionale vs Real Betis (Tyc Sports Channel 1 - ARG 🇦🇷)(🚀8826)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Bayern München vs RB Leipzig+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-#EXTINF:-1 tvg-id="411413" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/411413.png",🆕Bayern München vs RB Leipzig  (FC BAYERN TV HD)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AAA45467B3155450D7FCA7A772461DA1
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=411413&extension=ts&play_token=7bTyyfrWZy
-#EXTINF:-1 tvg-id="411413" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://103.176.90.92/images/411413.png",🆕Bayern München vs RB Leipzig  (FC BAYERN TV HD)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B3A0BCB7C7DCE2AB3DFCB84D433C9A79
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=411413&extension=ts&play_token=fUbHLuiZ8d
-
-#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",🆕Bayern München vs RB Leipzig (AR| ABU DHABI SPORT 1)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AAA45467B3155450D7FCA7A772461DA1
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=993336&extension=ts&play_token=XJTmtCz01V
-#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",🆕Bayern München vs RB Leipzig (AR| ABU DHABI SPORT 1)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AAA45467B3155450D7FCA7A772461DA1
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591602&extension=ts&play_token=aKq8YO1USW
-#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",🆕Bayern München vs RB Leipzig(AR| ABU DHABI SPORT 1 HD)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:B7:B5:7F; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer AAA45467B3155450D7FCA7A772461DA1
-http://a47.streamtrx.xyz:80/play/live.php?mac=00:1A:79:B7:B5:7F&stream=591601&extension=ts&play_token=l37Y6UorDa
-#EXTINF:-1 tvg-id="993336" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",🆕Bayern München vs RB Leipzig (AR| ABU DHABI SPORT 1)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B3A0BCB7C7DCE2AB3DFCB84D433C9A79
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=993336&extension=ts&play_token=DRxZq0Tv11
-#EXTINF:-1 tvg-id="591602" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ADSPORTASIA.png",🆕Bayern München vs RB Leipzig (AR| ABU DHABI SPORT 1)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B3A0BCB7C7DCE2AB3DFCB84D433C9A79
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591602&extension=ts&play_token=AHTE3CMFg5
-#EXTINF:-1 tvg-id="591601" group-title="BOLA | FRIENDLY MATCH" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ABUDHABISPORT.png",🆕Bayern München vs RB Leipzig (AR| ABU DHABI SPORT 1 HD)(🚀8826)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:C7:3F:B3; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer B3A0BCB7C7DCE2AB3DFCB84D433C9A79
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C7:3F:B3&stream=591601&extension=ts&play_token=vi8X41NZCC
 
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Borussia Dortmund Vs Roma+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
