@@ -8297,16 +8297,27 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN1HD
-http://185.246.209.113:80/TSN1HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN2HD
-http://185.246.209.113:80/TSN2HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN3HD
-http://185.246.209.113:80/TSN3HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN4HD
-http://185.246.209.113:80/TSN4HD/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕✅TSN5HD
-http://185.246.209.113:80/TSN5HD/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",CA| TSN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20476&extension=ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",CA| TSN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20475&extension=ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",CA| TSN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20474&extension=ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",CA| TSN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=20472&extension=ts
+
 
 #EXTINF:-1 tvg-id="plex.tv.F1.Channel.plex" tvg-logo="https://i.imgur.com/vI113x2.jpeg" group-title="OLAHRAGA | FORMULA 1",🆕F1 TV US✅
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -9088,50 +9099,57 @@ TES BARU
 -->EVENT REAL YG DIATAS
 ___ INI ENGGA YA---sss
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Everton vs Crystal Palace+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++  Manchester City vs AFC Bournemouth+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Everton vs Crystal Palace (🔥Star Sports select 1 HD)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155972&extension=ts&play_token=G4V3c1Jep4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Everton vs Crystal Palace (🔥USA NETWORK )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Manchester City vs AFC Bournemouth (🔥USA NETWORK )
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=91882&extension=ts&play_token=RVygKCNvgb
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Everton vs Crystal Palace (🔥 Mono Max 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Manchester City vs AFC Bournemouth (🔥 Mono Max 1)
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Everton vs Crystal Palace  (FUBO SPORTS 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Manchester City vs AFC Bournemouth  (FUBO SPORTS 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 #http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 	Nottingham Forest vs Leeds United+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-	
-#EXTINF:-1 tvg-id="" tvg-name=" tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Nottingham Forest vs Leeds United ⚽MONOMAX 3
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-http://api.plus-server.sbs/play.php?key=1234&ch=api_mono3
-
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 	Ipswich Town vs Sunderland+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Ipswich Town vs Sunderland  BEIN SPORTS 2
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&extension=ts&play_token=QpjrV5xecY
-
-=================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Brentford vs Tottenham Hotspur+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
-==================================================================================================================================================================================
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Brentford vs Tottenham Hotspur (🔥Star Sports select 1 HD)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155972&extension=ts&play_token=G4V3c1Jep4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Brentford vs Tottenham Hotspur (BEIN SPORTS 1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐Manchester City vs AFC Bournemouth  (BEIN SPORTS 1)
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917224&extension=ts&play_token=jAKn26NnnQ
 
 
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 	Nottingham Forest vs Leeds United+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Newcastle United vs Liverpool (🔥Star Sports select 1 HD)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=155972&extension=ts&play_token=G4V3c1Jep4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Newcastle United vs Liverpool  (BEIN SPORTS 1)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917224&extension=ts&play_token=jAKn26NnnQ
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Newcastle United vs Liverpool  (FUBO SPORTS 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+#http://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Newcastle United vs Liverpool (🔥 Mono Max 1)
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
 
 
+
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ 	 Brighton & Hove Albion vs Aston Villa+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Brighton & Hove Albion vs Aston Villa  (BEIN SPORTS 2)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&extension=ts&play_token=QpjrV5xecY
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Brighton & Hove Albion vs Aston Villa (MONOMAX 2)
+http://atk97.online:80/play/live.php?mac=00:1A:79:C0:31:65&stream=1660492&extension=ts&play_token=PESsPdpZ9Z
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qdc13L4.jpeg" group-title="BOLA | LIGA INGGRIS",⭐ Brighton & Hove Albion vs Aston Villa (🔥 Mono Max 2)
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660492&extension=ts&play_token=BGcB3qW59F
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Hull City vs Manchester United+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
@@ -9354,6 +9372,14 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ==================
 NEW 4/5/2025
 ===========
+
+#EXTINF:-1 group-title="BOLA | LALIGA" tvg-id="" tvg-logo="https://i.imgur.com/I7VEJ9V.jpeg",⭐Atlético Madrid vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 =================================================================================================================================================================================
 +++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ TV CLUB +++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
@@ -9472,20 +9498,34 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Internazionale vs Monzae+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Torino vs Milan+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",⭐  Internazionale vs Monzae (Unite8 Sports 2 HD)
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1532831&extension=ts&play_token=VXnSUJdISb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",⭐ Internazionale vs Monzae (Ziggo sports 1) 
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1698815&extension=ts&play_token=T4eG9Rgkmgsd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",⭐Torino vs Milan (TNT SPORT 1 HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=1905817&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",⭐Torino vs Milan (Ziggo sports 2)
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:50:0A:21&stream=1698814&extension=ts&play_token=HagoSSxKKWcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2561/index.m3u8
+
 
 =================================================================================================================================================================================
-+++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Udinese vs Como+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++ Venezia vs Lecce+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
 ==================================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",⭐ Udinese vs Como (PRIMA SPORT 5)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",⭐Venezia vs Lecce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias11.cfd/000/
-https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTVLCOPT:http-referrer=https://pulse1.zalmora1.cfd/000/
+https://pulse1.zalmora1.cfd/kuk3/usergendxt1v8klq6rnd.m3u8
+=================================================================================================================================================================================
++++++++++++++++++++++++++++++++++++++++++++ GANTI MATCH LAIN++++++++++++++++++++++Frosinone vs Juventus+++++++++++++++++++++++++ GANTI MATCH LAIN+++++++++++++++++++
+==================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",⭐Frosinone vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 =================================================================================================================================================================================
