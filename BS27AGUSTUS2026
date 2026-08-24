@@ -5273,12 +5273,13 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 
 ==================
 
-#EXTINF:-1 tvg-id="Lokal" vg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="FILM",🆕TVN MOVIES (🚀8826)
+#EXTINF:-1 tvg-id="Lokal" tvg-logo="https://i.imgur.com/SR1YPbD.jpeg" group-title="FILM",🆕TVN MOVIES (🚀8826)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=46.play
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=46
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -5410,11 +5411,11 @@ ONE COVER https://i.imgur.com/vh4i0gM.jpeg
 TVN https://i.imgur.com/qdkr0yE.jpeg
 TVN MOVIE https://i.imgur.com/tCmJ78c.jpeg
 
-#EXTINF:-1 tvg-id="Lokal" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/qdkr0yE.jpeg" group-title="DUNIA | KOREA",🆕TVN MOVIES (🚀8826 V2)
+#EXTINF:-1 tvg-id="Lokal" tvg-logo="https://i.imgur.com/qdkr0yE.jpeg" group-title="DUNIA | KOREA",🆕TVN MOVIES (🚀8826 V2)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=46.play
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=46
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
