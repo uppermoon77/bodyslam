@@ -9773,21 +9773,21 @@ BOLA | PRO LEAGUE
 
 #EXTINF:-1 group-logo="https://i.imgur.com/ZkZJOyE.jpeg",BOLA | SAUDI PRO LEAGUE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="OLA | SAUDI PRO LEAGUE", 01:00 WIB Al Nassr vs Al Taawon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE", 01:00 WIB Al Nassr vs Al Taawon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="OLA | SAUDI PRO LEAGUE",SportDigital FUSSBALL DE
+#EXTINF:-1 tvg-id="SportDigitalFUSSBALLDE" tvg-name="SportDigital FUSSBALL DE" tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE",SportDigital FUSSBALL DE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="OLA | SAUDI PRO LEAGUE", FOXSPORTS 2
+#EXTINF:-1 tvg-id=" tvg-name=" tvg-logo="https://i.imgur.com/ZkZJOyE.jpeg" group-title="BOLA | SAUDI PRO LEAGUE", FOXSPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
